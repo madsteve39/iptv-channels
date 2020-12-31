@@ -1,5 +1,1479 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="",RTVA
-http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="",RTVA
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="### (US) GENERAL ###" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/USGENERAL.png" group-title="US| GENERAL",### (US) GENERAL ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/51907
+#EXTINF:-1 tvg-id="" tvg-name="(US) ABC NEWS HD (EAST)" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/ABCNEWSHDEAST.png" group-title="US| GENERAL",(US) ABC NEWS HD (EAST)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6268
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="(US) BBC AMERICA HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/BBCAMERICAHD.png" group-title="US| GENERAL",(US) BBC AMERICA HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6267
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="(US) FOX NEWS CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/FOXNEWSCHANNELHD.png" group-title="US| GENERAL",(US) FOX NEWS CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6266
+#EXTINF:-1 tvg-id="" tvg-name="(US) NBC NEWS NOW" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/NBCNEWSNOW.png" group-title="US| GENERAL",(US) NBC NEWS NOW
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6265
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="(US) ACCU WEATHER HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/ACCUWEATHERUHD.png" group-title="US| GENERAL",(US) ACCU WEATHER HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6263
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="(US) ACCU WEATHER UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/ACCUWEATHERUHD.png" group-title="US| GENERAL",(US) ACCU WEATHER UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6262
+#EXTINF:-1 tvg-id="weathernation.us" tvg-name="(US) WEATHER NATION HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/WEATHERNATIONHD.png" group-title="US| GENERAL",(US) WEATHER NATION HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6261
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="(US) C-SPAN HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CSPANHD.png" group-title="US| GENERAL",(US) C-SPAN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6260
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="(US) C-SPAN UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CSPANUHD.png" group-title="US| GENERAL",(US) C-SPAN UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6259
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="(US) C-SPAN 2 HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CSPAN2HD.png" group-title="US| GENERAL",(US) C-SPAN 2 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6258
+#EXTINF:-1 tvg-id="" tvg-name="(US) C-SPAN 2 UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CSPAN2UHD.png" group-title="US| GENERAL",(US) C-SPAN 2 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6257
+#EXTINF:-1 tvg-id="cspan3.us" tvg-name="(US) C-SPAN 3" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CSPAN3.png" group-title="US| GENERAL",(US) C-SPAN 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6256
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="(US) CNN INTERNATIONAL HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CNNINTERNATIONALHD.png" group-title="US| GENERAL",(US) CNN INTERNATIONAL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66504
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="(US) BBC WORLD NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/BBCWORLDNEWSHD.png" group-title="US| GENERAL",(US) BBC WORLD NEWS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66503
+#EXTINF:-1 tvg-id="" tvg-name="(US) THE WEATHER CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/THEWEATHERCHANNELHD.png" group-title="US| GENERAL",(US) THE WEATHER CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66502
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="(US) FOX BUSINESS NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/FOXBUSINESSNETWORK.png" group-title="US| GENERAL",(US) FOX BUSINESS NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6255
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="(US) FOX BUSINESS NETWORK" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/FOXBUSINESSNETWORK.png" group-title="US| GENERAL",(US) FOX BUSINESS NETWORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6254
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="(US) ONE AMERICAN NEWS NETWORK UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/ONEAMERICANNEWSNETWORKUHD.png" group-title="US| GENERAL",(US) ONE AMERICAN NEWS NETWORK UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6253
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="(US) CHEDDAR BUSINESS HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CHEDDARBUSINESSHD.png" group-title="US| GENERAL",(US) CHEDDAR BUSINESS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6252
+#EXTINF:-1 tvg-id="" tvg-name="(US) CHEDDAR NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CHEDDARNEWSHD.png" group-title="US| GENERAL",(US) CHEDDAR NEWS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6251
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="(US) CHEDDAR BUSINESS UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CHEDDARBUSINESSUHD.png" group-title="US| GENERAL",(US) CHEDDAR BUSINESS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6250
+#EXTINF:-1 tvg-id="" tvg-name="(US) ONE AMERICA NEWS NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/ONEAMERICANEWSNETWORKHD.png" group-title="US| GENERAL",(US) ONE AMERICA NEWS NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6249
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="(US) BBC AMERICA UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/BBCAMERICAUHD.png" group-title="US| GENERAL",(US) BBC AMERICA UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6248
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="(US) BBC WORLD NEWS UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/BBCWORLDNEWSUHD.png" group-title="US| GENERAL",(US) BBC WORLD NEWS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6247
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="(US) CNBC UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CNBCUHD.png" group-title="US| GENERAL",(US) CNBC UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6246
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="(US) CNN UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CNNUHD.png" group-title="US| GENERAL",(US) CNN UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6245
+#EXTINF:-1 tvg-id="" tvg-name="(US) AL JAZEERA UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/ALJAZEERAUHD.png" group-title="US| GENERAL",(US) AL JAZEERA UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6244
+#EXTINF:-1 tvg-id="" tvg-name="(US) AL JAZEERA" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/ALJAZEERA.png" group-title="US| GENERAL",(US) AL JAZEERA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6243
+#EXTINF:-1 tvg-id="" tvg-name="(US) RT NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/RTNEWSHD.png" group-title="US| GENERAL",(US) RT NEWS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6242
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="(US) CNBC WORLD HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CNBCWORLDHD.png" group-title="US| GENERAL",(US) CNBC WORLD HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6241
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="(US) CNN HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CNNHD.png" group-title="US| GENERAL",(US) CNN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6240
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="(US) BLOOMBERG UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/BLOOMBERGUHD.png" group-title="US| GENERAL",(US) BLOOMBERG UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6238
+#EXTINF:-1 tvg-id="" tvg-name="(US) CBS NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CBSNEWSHD.png" group-title="US| GENERAL",(US) CBS NEWS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6236
+#EXTINF:-1 tvg-id="" tvg-name="(US) CHEDDAR NEWS UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CHEDDARNEWSUHD.png" group-title="US| GENERAL",(US) CHEDDAR NEWS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6235
+#EXTINF:-1 tvg-id="" tvg-name="(US) NBCSN HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/NBCSNHD.png" group-title="US| GENERAL",(US) NBCSN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6234
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="(US) NEWSMAX TV HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/NEWSMAXTVHD.png" group-title="US| GENERAL",(US) NEWSMAX TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6232
+#EXTINF:-1 tvg-id="" tvg-name="(US) NEWSNET" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/NEWSNET.png" group-title="US| GENERAL",(US) NEWSNET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6231
+#EXTINF:-1 tvg-id="newsy.us" tvg-name="(US) NEWSY HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/NEWSYHD.png" group-title="US| GENERAL",(US) NEWSY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6230
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="(US) NBC 6 (MIAMI FL) HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/NBC6MIAMIFLHD.png" group-title="US| GENERAL",(US) NBC 6 (MIAMI FL) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6229
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="(US) CBS 4 (MIAMI FL)" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/CBS4MIAMIFL.png" group-title="US| GENERAL",(US) CBS 4 (MIAMI FL)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6228
+#EXTINF:-1 tvg-id="" tvg-name="(US) FOX 7 (MIAMI FL)" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/FOX7MIAMIFL.png" group-title="US| GENERAL",(US) FOX 7 (MIAMI FL)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6227
+#EXTINF:-1 tvg-id="" tvg-name="### (US) MOVIES ###" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/USMUSICFLAG.png" group-title="US| MOVIES",### (US) MOVIES ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6052
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="(US) STARZ KIDS AND FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZKIDSANDFAMILYHD.png" group-title="US| MOVIES",(US) STARZ KIDS AND FAMILY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5982
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="(US) STARZ IN BLACK HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZINBLACKHD.png" group-title="US| MOVIES",(US) STARZ IN BLACK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5983
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="(US) STARZ ENCORE WESTERNS HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREWESTERNSHD.png" group-title="US| MOVIES",(US) STARZ ENCORE WESTERNS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5984
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="(US) STARZ ENCORE SUSPENSE HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCORESUSPENSEHD.png" group-title="US| MOVIES",(US) STARZ ENCORE SUSPENSE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5985
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="(US) STARZ ENCORE FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREFAMILYHD.png" group-title="US| MOVIES",(US) STARZ ENCORE FAMILY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5986
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="(US) STARZ ENCORE CLASSIC HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCORECLASSICHD.png" group-title="US| MOVIES",(US) STARZ ENCORE CLASSIC HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5987
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="(US) STARZ ENCORE BLACK HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREBLACKHD.png" group-title="US| MOVIES",(US) STARZ ENCORE BLACK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5988
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="(US) STARZ ENCORE ACTION HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREACTIONHD.png" group-title="US| MOVIES",(US) STARZ ENCORE ACTION HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5989
+#EXTINF:-1 tvg-id="" tvg-name="(US) STARZ ENCORE (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREWESTHD.png" group-title="US| MOVIES",(US) STARZ ENCORE (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5990
+#EXTINF:-1 tvg-id="" tvg-name="(US) STARZ Encore (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREWESTHD.png" group-title="US| MOVIES",(US) STARZ Encore (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5991
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="(US) STARZ CINEMA HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZCINEMAHD.png" group-title="US| MOVIES",(US) STARZ CINEMA HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5992
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="(US) STARZ (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZEASTHD.png" group-title="US| MOVIES",(US) STARZ (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5993
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="(US) INDIE PLEX UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/INDIEPLEXUHD.png" group-title="US| MOVIES",(US) INDIE PLEX UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5994
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="(US) TURNER CLASSIC MOVIES HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/TURNERCLASSICMOVIESHD.png" group-title="US| MOVIES",(US) TURNER CLASSIC MOVIES HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5995
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="(US) EPIX HITS HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/EPIXHITSUHD.png" group-title="US| MOVIES",(US) EPIX HITS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5996
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="(US) EPIX DRIVE IN HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/EPIXDRIVEINHD.png" group-title="US| MOVIES",(US) EPIX DRIVE IN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5997
+#EXTINF:-1 tvg-id="epix.us" tvg-name="(US) EPIX UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/EPIXUHD.png" group-title="US| MOVIES",(US) EPIX UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5998
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="(US) EPIX HITS UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/EPIXHITSUHD.png" group-title="US| MOVIES",(US) EPIX HITS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5999
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="(US) EPIX 2 UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/EPIX2UHD.png" group-title="US| MOVIES",(US) EPIX 2 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6000
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="(US) HDNET MOVIES HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HDNETMOVIESHD.png" group-title="US| MOVIES",(US) HDNET MOVIES HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6001
+#EXTINF:-1 tvg-id="sony.us" tvg-name="(US) SONY MOVIE CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SONYMOVIECHANNELHD.png" group-title="US| MOVIES",(US) SONY MOVIE CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6002
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="(US) STARZ (WEST) UHD*" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZWESTUHD.png" group-title="US| MOVIES",(US) STARZ (WEST) UHD*
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6003
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="(US) STARZ KIDS AND FAMILY UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZKIDSANDFAMILYUHD.png" group-title="US| MOVIES",(US) STARZ KIDS AND FAMILY UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6004
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="(US) STARZ ENCORE UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6005
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="(US) STARZ ENCORE WESTERNS UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREWESTERNSUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE WESTERNS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6006
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="(US) STARZ ENCORE SUSPENSE UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCORESUSPENSEUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE SUSPENSE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6007
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="(US) STARZ ENCORE FAMILY UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREFAMILYUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE FAMILY UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6008
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="(US) STARZ ENCORE CLASSIC UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCORECLASSICUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE CLASSIC UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6009
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="(US) STARZ ENCORE BLACK UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREBLACKUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE BLACK UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6010
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="(US) STARZ ENCORE ACTION UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREACTIONUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE ACTION UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6011
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="(US) STARZ ENCORE (WEST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZENCOREWESTUHD.png" group-title="US| MOVIES",(US) STARZ ENCORE (WEST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6012
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="(US) STARZ EDGE UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZEDGEUHD.png" group-title="US| MOVIES",(US) STARZ EDGE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6013
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="(US) STARZ COMEDY UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZCOMEDYUHD.png" group-title="US| MOVIES",(US) STARZ COMEDY UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6014
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="(US) STARZ (WEST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZWESTUHD.png" group-title="US| MOVIES",(US) STARZ (WEST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6015
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="(US) STARZ (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/STARZEASTUHD.png" group-title="US| MOVIES",(US) STARZ (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6016
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="(US) SHOWTIME FAMILY ZONE UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEFAMILYZONEUHD.png" group-title="US| MOVIES",(US) SHOWTIME FAMILY ZONE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6017
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="(US) SHOWTIME FAMILY ZONE HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEFAMILYZONEHD.png" group-title="US| MOVIES",(US) SHOWTIME FAMILY ZONE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6018
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="(US) SHOWTIME (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEEASTHD.png" group-title="US| MOVIES",(US) SHOWTIME (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6019
+#EXTINF:-1 tvg-id="showtimewomenpacific.us" tvg-name="(US) SHOWTIME WOMEN UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEWOMENUHD.png" group-title="US| MOVIES",(US) SHOWTIME WOMEN UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6020
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="(US) SHOWTIME SHOWCASE UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMESHOWCASEUHD.png" group-title="US| MOVIES",(US) SHOWTIME SHOWCASE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6021
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="(US) SHOWTIME NEXT UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMENEXTUHD.png" group-title="US| MOVIES",(US) SHOWTIME NEXT UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6022
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="(US) SHOWTIME EXTREME UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEEXTREMEUHD.png" group-title="US| MOVIES",(US) SHOWTIME EXTREME UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6023
+#EXTINF:-1 tvg-id="" tvg-name="(US) SHOWTIME BEYOND UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEBEYONDUHD.png" group-title="US| MOVIES",(US) SHOWTIME BEYOND UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6024
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="(US) SHOWTIME 2 UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIME2UHD.png" group-title="US| MOVIES",(US) SHOWTIME 2 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6025
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="(US) SHOWTIME (WEST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEWESTUHD.png" group-title="US| MOVIES",(US) SHOWTIME (WEST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6026
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="(US) SHOWTIME (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/SHOWTIMEEASTUHD.png" group-title="US| MOVIES",(US) SHOWTIME (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6027
+#EXTINF:-1 tvg-id="" tvg-name="(US) FILMRISE FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/FILMRISEFAMILYHD.png" group-title="US| MOVIES",(US) FILMRISE FAMILY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6029
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="(US) HDNET MOVIES UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HDNETMOVIESUHD.png" group-title="US| MOVIES",(US) HDNET MOVIES UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6034
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="(US) HBO ZONE UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HBOZONEUHD.png" group-title="US| MOVIES",(US) HBO ZONE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6035
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="(US) HBO SIGNATURE UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HBOSIGNATUREUHD.png" group-title="US| MOVIES",(US) HBO SIGNATURE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6036
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="(US) HBO FAMILY UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HBOFAMILYUHD.png" group-title="US| MOVIES",(US) HBO FAMILY UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6037
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="(US) HBO COMEDY UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HBOCOMEDYUHD.png" group-title="US| MOVIES",(US) HBO COMEDY UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6038
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="(US) HBO 2 UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HBO2.png" group-title="US| MOVIES",(US) HBO 2 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6039
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="(US) HBO (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HBOWESTHD.png" group-title="US| MOVIES",(US) HBO (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6040
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="(US) HBO (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/HBOWESTHD.png" group-title="US| MOVIES",(US) HBO (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6041
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="(US) CINEMAX MOREMAX HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAXMOREMAXHD.png" group-title="US| MOVIES",(US) CINEMAX MOREMAX HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6044
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="(US) CINEMAX MOVIEMAX HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAXMOVIEMAXHD.png" group-title="US| MOVIES",(US) CINEMAX MOVIEMAX HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6045
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="(US) CINEMAX ACTIONMAX HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAXACTIONMAXHD.png" group-title="US| MOVIES",(US) CINEMAX ACTIONMAX HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6046
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="(US) CINEMAX 5 STARMAX UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAX5STARMAXUHD.png" group-title="US| MOVIES",(US) CINEMAX 5 STARMAX UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6047
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="(US) CINEMAX (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAXEASTHD.png" group-title="US| MOVIES",(US) CINEMAX (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6048
+#EXTINF:-1 tvg-id="" tvg-name="(US) CINEMAX MOREMAX UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAXMOREMAXUHD.png" group-title="US| MOVIES",(US) CINEMAX MOREMAX UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6049
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="(US) CINEMAX ACTIONMAX UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAXACTIONMAXUHD.png" group-title="US| MOVIES",(US) CINEMAX ACTIONMAX UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6050
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="(US) CINEMAX (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USMOVIES/CINEMAXEASTUHD.png" group-title="US| MOVIES",(US) CINEMAX (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6051
+#EXTINF:-1 tvg-id="" tvg-name="### (US) ENTERTAINMENTS ###" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/ENTERTAINMENTS.png" group-title="US| ENTERTAINEMENT",### (US) ENTERTAINMENTS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6225
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="(US) TELEMUNDO 47 UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TELEMUNDO47UHD.png" group-title="US| ENTERTAINEMENT",(US) TELEMUNDO 47 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6082
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="(US) GALAVISION UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/GALAVISIONUHD.png" group-title="US| ENTERTAINEMENT",(US) GALAVISION UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6083
+#EXTINF:-1 tvg-id="univision.us" tvg-name="(US) UNIVISION UHD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/UNIVISIONUHD.png" group-title="US| GENERAL",(US) UNIVISION UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6084
+#EXTINF:-1 tvg-id="gemshoppingnetwork.us" tvg-name="(US) GEM SHOPPING NETWORK" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/GEMSHOPPINGNETWORK.png" group-title="US| ENTERTAINEMENT",(US) GEM SHOPPING NETWORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6085
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="(US) BET JAMS" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BETJAMS.png" group-title="US| ENTERTAINEMENT",(US) BET JAMS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6086
+#EXTINF:-1 tvg-id="wgnamerica.us" tvg-name="(US) WGN AMERICA UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/WGNAMERICAUHD.png" group-title="US| ENTERTAINEMENT",(US) WGN AMERICA UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6087
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="(US) TV ONE UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TVONEUHD.png" group-title="US| ENTERTAINEMENT",(US) TV ONE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6088
+#EXTINF:-1 tvg-id="awe.us" tvg-name="(US) AWE UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/AWEUHD.png" group-title="US| ENTERTAINEMENT",(US) AWE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6089
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="(US) WE TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/WETVUHD.png" group-title="US| ENTERTAINEMENT",(US) WE TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6091
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="(US) TLC UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TLCUHD.png" group-title="US| ENTERTAINEMENT",(US) TLC UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6092
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="(US) TLC (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TLCUHD.png" group-title="US| ENTERTAINEMENT",(US) TLC (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6093
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="(US) TLC (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TLCUHD.png" group-title="US| ENTERTAINEMENT",(US) TLC (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6094
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="(US) COMEDY CENTRAL HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OMEDYCENTRALUHD.png" group-title="US| ENTERTAINEMENT",(US) COMEDY CENTRAL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6095
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="(US) COMEDY CENTRAL (WEST)  HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OMEDYCENTRALUHD.png" group-title="US| ENTERTAINEMENT",(US) COMEDY CENTRAL (WEST)  HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6096
+#EXTINF:-1 tvg-id="amc.us" tvg-name="(US) AMC UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/AMCUHD.png" group-title="US| ENTERTAINEMENT",(US) AMC UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6098
+#EXTINF:-1 tvg-id="amc.us" tvg-name="(US) AMC HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/AMCUHD.png" group-title="US| ENTERTAINEMENT",(US) AMC HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6099
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="(US) USA NETWORK UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/USANETWORKUHD.png" group-title="US| ENTERTAINEMENT",(US) USA NETWORK UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6100
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="(US) UP UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/UPUHD.png" group-title="US| ENTERTAINEMENT",(US) UP UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6101
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="(US) VICELAND UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/VICELANDUHD.png" group-title="US| ENTERTAINEMENT",(US) VICELAND UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6102
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="(US) TELEMUNDO 51 HD (Miami)" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TELEMUNDO51HDMiami.png" group-title="US| ENTERTAINEMENT",(US) TELEMUNDO 51 HD (Miami)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66500
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="(US) GALAVISION HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/GALAVISIONHD.png" group-title="US| ENTERTAINEMENT",(US) GALAVISION HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66499
+#EXTINF:-1 tvg-id="univision.us" tvg-name="(US) UNIVISION HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/UNIVISIONHD.png" group-title="US| ENTERTAINEMENT",(US) UNIVISION HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66498
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="(US) ANTENNA TV" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/ANTENNATV.png" group-title="US| ENTERTAINEMENT",(US) ANTENNA TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66497
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="(US) REVOLT HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/REVOLTHD.png" group-title="US| ENTERTAINEMENT",(US) REVOLT HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66496
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="(US) TV LAND HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TVLANDHD.png" group-title="US| ENTERTAINEMENT",(US) TV LAND HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66495
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="(US) FREEFORM HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FREEFORMHD.png" group-title="US| ENTERTAINEMENT",(US) FREEFORM HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66494
+#EXTINF:-1 tvg-id="cozitvla.us" tvg-name="(US) COZI TV" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/COZITV.png" group-title="US| ENTERTAINEMENT",(US) COZI TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66493
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="(US)  HALLMARK MOVIES & MYSTERIES HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HALLMARKMOVIESMYSTERIESHD.png" group-title="US| ENTERTAINEMENT",(US)  HALLMARK MOVIES & MYSTERIES HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66492
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="(US) COOKING CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/COOKINGCHANNELHD.png" group-title="US| ENTERTAINEMENT",(US) COOKING CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66491
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="(US) TRU TV (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TRUTVEASTUHD.png" group-title="US| ENTERTAINEMENT",(US) TRU TV (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6104
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="(US) TBS UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TBSUHD.png" group-title="US| ENTERTAINEMENT",(US) TBS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6105
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="(US) SUNDANCE TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SUNDANCETVUHD.png" group-title="US| ENTERTAINEMENT",(US) SUNDANCE TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6107
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="(US) RFD-TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/RFDTVUHD.png" group-title="US| ENTERTAINEMENT",(US) RFD-TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6108
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="(US) REVOLT UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/REVOLTUHD.png" group-title="US| ENTERTAINEMENT",(US) REVOLT UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6109
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="(US) POP UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/POPUHD.png" group-title="US| ENTERTAINEMENT",(US) POP UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6110
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="(US) OXYGEN UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OXYGENUHD.png" group-title="US| ENTERTAINEMENT",(US) OXYGEN UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6111
+#EXTINF:-1 tvg-id="" tvg-name="(US) OWN UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OWNUHD.png" group-title="US| ENTERTAINEMENT",(US) OWN UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6112
+#EXTINF:-1 tvg-id="ovation.us" tvg-name="(US) OVATION UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OVATIONUHD.png" group-title="US| ENTERTAINEMENT",(US) OVATION UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6113
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="(US) OUTSIDE TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OUTSIDETVUHD.png" group-title="US| ENTERTAINEMENT",(US) OUTSIDE TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6114
+#EXTINF:-1 tvg-id="justicecentral.us" tvg-name="(US) JUSTICE CENTRAL UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/JUSTICECENTRALUHD.png" group-title="US| ENTERTAINEMENT",(US) JUSTICE CENTRAL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6117
+#EXTINF:-1 tvg-id="ion.us" tvg-name="(US) ION TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/IONTVUHD.png" group-title="US| ENTERTAINEMENT",(US) ION TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6119
+#EXTINF:-1 tvg-id="" tvg-name="(US) IFC UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/IFCUHD.png" group-title="US| ENTERTAINEMENT",(US) IFC UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6120
+#EXTINF:-1 tvg-id="hln.us" tvg-name="(US) HLN UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HLNUHD.png" group-title="US| ENTERTAINEMENT",(US) HLN UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6122
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="(US) HGTV (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HGTVEASTUHD.png" group-title="US| ENTERTAINEMENT",(US) HGTV (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6123
+#EXTINF:-1 tvg-id="" tvg-name="(US) GSN UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/GSNUHD.png" group-title="US| ENTERTAINEMENT",(US) GSN UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6124
+#EXTINF:-1 tvg-id="fusion.us" tvg-name="(US) Fusion UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FusionUHD.png" group-title="US| ENTERTAINEMENT",(US) Fusion UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6127
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="(US) FUSE UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FUSEUHD.png" group-title="US| ENTERTAINEMENT",(US) FUSE UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6128
+#EXTINF:-1 tvg-id="fm.us" tvg-name="(US) FM UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FMUHD.png" group-title="US| ENTERTAINEMENT",(US) FM UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6129
+#EXTINF:-1 tvg-id="" tvg-name="(US) DAVE & AVA UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/DAVEAVAUHD.png" group-title="US| ENTERTAINEMENT",(US) DAVE & AVA UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6131
+#EXTINF:-1 tvg-id="tvlandwest.us" tvg-name="(US) TV LAND (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TVLANDWESTHD.png" group-title="US| ENTERTAINEMENT",(US) TV LAND (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6132
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="(US) BRAVO UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BRAVOUHD.png" group-title="US| ENTERTAINEMENT",(US) BRAVO UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6133
+#EXTINF:-1 tvg-id="bravowest.us" tvg-name="(US) BRAVO (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BRAVOUHD.png" group-title="US| ENTERTAINEMENT",(US) BRAVO (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6134
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="(US) AXS TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/AXSTVUHD.png" group-title="US| ENTERTAINEMENT",(US) AXS TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6135
+#EXTINF:-1 tvg-id="awe.us" tvg-name="(US) AWE UHD*" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/AWEUHD.png" group-title="US| ENTERTAINEMENT",(US) AWE UHD*
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6136
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="(US) ASPIRE TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/ASPIRETVUHD.png" group-title="US| ENTERTAINEMENT",(US) ASPIRE TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6137
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="(US) OXYGEN (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OXYGENWESTHD.png" group-title="US| ENTERTAINEMENT",(US) OXYGEN (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6138
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="(US) OXYGEN (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OXYGENWESTHD.png" group-title="US| ENTERTAINEMENT",(US) OXYGEN (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6139
+#EXTINF:-1 tvg-id="aande.us" tvg-name="(US) A&E UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/AEUHD.png" group-title="US| ENTERTAINEMENT",(US) A&E UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6140
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="(US) TRU TV (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TRUTVEASTHD.png" group-title="US| ENTERTAINEMENT",(US) TRU TV (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6141
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="(US) TRU TV (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TRUTVEASTHD.png" group-title="US| ENTERTAINEMENT",(US) TRU TV (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6142
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="(US) TNT (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TNTWESTHD.png" group-title="US| ENTERTAINEMENT",(US) TNT (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6143
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="(US) TNT (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TNTWESTHD.png" group-title="US| ENTERTAINEMENT",(US) TNT (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6144
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="(US) TBS (West)" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TBSWest.png" group-title="US| ENTERTAINEMENT",(US) TBS (West)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6146
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="(US) TBS (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TBSWest.png" group-title="US| ENTERTAINEMENT",(US) TBS (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6147
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="(US) SUNDANCE TV HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SUNDANCETVHD.png" group-title="US| ENTERTAINEMENT",(US) SUNDANCE TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6148
+#EXTINF:-1 tvg-id="" tvg-name="(US) PX SPORTS HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/PXSPORTSHD.png" group-title="US| ENTERTAINEMENT",(US) PX SPORTS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6149
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="(US) POP HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/POPHD.png" group-title="US| ENTERTAINEMENT",(US) POP HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6150
+#EXTINF:-1 tvg-id="" tvg-name="(US) PEOPLE TV HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/PEOPLETVHD.png" group-title="US| ENTERTAINEMENT",(US) PEOPLE TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6151
+#EXTINF:-1 tvg-id="peacetv.us" tvg-name="(US) PEACE TV" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/PEACETV.png" group-title="US| ENTERTAINEMENT",(US) PEACE TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6152
+#EXTINF:-1 tvg-id="" tvg-name="(US) OWN HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OWNHD.png" group-title="US| ENTERTAINEMENT",(US) OWN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6153
+#EXTINF:-1 tvg-id="" tvg-name="(US) IFC HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/IFCHD.png" group-title="US| ENTERTAINEMENT",(US) IFC HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6155
+#EXTINF:-1 tvg-id="hsn2.us" tvg-name="(US) HSN HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HSNHD.png" group-title="US| ENTERTAINEMENT",(US) HSN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6156
+#EXTINF:-1 tvg-id="hln.us" tvg-name="(US) HLN HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/HLNHD.png" group-title="US| GENERAL",(US) HLN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6160
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="(US) HGTV (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HGTVWESTHD.png" group-title="US| ENTERTAINEMENT",(US) HGTV (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6161
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="(US) HEROES AND ICONS" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HEROESANDICONS.png" group-title="US| ENTERTAINEMENT",(US) HEROES AND ICONS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6162
+#EXTINF:-1 tvg-id="greatamericancountry.us" tvg-name="(US) GREAT AMERICAN COUNTRY HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/GREATAMERICANCOUNTRYHD.png" group-title="US| ENTERTAINEMENT",(US) GREAT AMERICAN COUNTRY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6163
+#EXTINF:-1 tvg-id="court.us" tvg-name="(US) COURT TV HD" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/COURTTVHD.png" group-title="US| GENERAL",(US) COURT TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6164
+#EXTINF:-1 tvg-id="" tvg-name="(US) CONTV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/CONTVUHD.png" group-title="US| ENTERTAINEMENT",(US) CONTV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6165
+#EXTINF:-1 tvg-id="" tvg-name="(US) COMET TV HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/COMETTVHD.png" group-title="US| ENTERTAINEMENT",(US) COMET TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6166
+#EXTINF:-1 tvg-id="" tvg-name="(US) FYI HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FYIHD.png" group-title="US| ENTERTAINEMENT",(US) FYI HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6167
+#EXTINF:-1 tvg-id="" tvg-name="(US) FXX HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FXXHD.png" group-title="US| ENTERTAINEMENT",(US) FXX HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6168
+#EXTINF:-1 tvg-id="" tvg-name="(US) FXX (West) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FXXHD.png" group-title="US| ENTERTAINEMENT",(US) FXX (West) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6169
+#EXTINF:-1 tvg-id="" tvg-name="(US) FXM HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FXMHD.png" group-title="US| ENTERTAINEMENT",(US) FXM HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6170
+#EXTINF:-1 tvg-id="" tvg-name="(US) FX MOVIE CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FXMOVIECHANNELHD.png" group-title="US| ENTERTAINEMENT",(US) FX MOVIE CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6171
+#EXTINF:-1 tvg-id="" tvg-name="(US) FX (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FXEASTHD.png" group-title="US| ENTERTAINEMENT",(US) FX (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6172
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="(US) FUSE HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FUSEHD.png" group-title="US| ENTERTAINEMENT",(US) FUSE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6173
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="(US) BUZZR" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BUZZR.png" group-title="US| ENTERTAINEMENT",(US) BUZZR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6174
+#EXTINF:-1 tvg-id="bravowest.us" tvg-name="(US) BRAVO (West) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BRAVOWestHD.png" group-title="US| ENTERTAINEMENT",(US) BRAVO (West) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6175
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="(US) AXS TV HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/AXSTVHD.png" group-title="US| ENTERTAINEMENT",(US) AXS TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6176
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="(US) HALLMARK DRAMA HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HALLMARKDRAMAHD.png" group-title="US| ENTERTAINEMENT",(US) HALLMARK DRAMA HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6178
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="(US) USA NETWORK (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/USANETWORKWESTHD.png" group-title="US| ENTERTAINEMENT",(US) USA NETWORK (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6179
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="(US) USA NETWORK (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/USANETWORKWESTHD.png" group-title="US| ENTERTAINEMENT",(US) USA NETWORK (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6180
+#EXTINF:-1 tvg-id="" tvg-name="(US) LIFETIME UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/LIFETIMEUHD.png" group-title="US| ENTERTAINEMENT",(US) LIFETIME UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6181
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="(US) LIFETIME MOVIES UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/LIFETIMEMOVIESUHD.png" group-title="US| ENTERTAINEMENT",(US) LIFETIME MOVIES UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6182
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="(US) LIFETIME MOVIE NETWORK UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/LIFETIMEMOVIENETWORKUHD.png" group-title="US| ENTERTAINEMENT",(US) LIFETIME MOVIE NETWORK UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6183
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="(US) QVC HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/QVCHD.png" group-title="US| ENTERTAINEMENT",(US) QVC HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6185
+#EXTINF:-1 tvg-id="" tvg-name="(US) QVC 3 HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/QVC3HD.png" group-title="US| ENTERTAINEMENT",(US) QVC 3 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6186
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="(US) QVC 2 HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/QVC2HD.png" group-title="US| ENTERTAINEMENT",(US) QVC 2 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6187
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="(US) TNT UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TNTUHD.png" group-title="US| ENTERTAINEMENT",(US) TNT UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6190
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="(US) TNT (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/TNTUHD.png" group-title="US| ENTERTAINEMENT",(US) TNT (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6191
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="(US) LIFETIME HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/LIFETIMEHD.png" group-title="US| ENTERTAINEMENT",(US) LIFETIME HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6192
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="(US) LIFETIME MOVIE NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/LIFETIMEMOVIENETWORKHD.png" group-title="US| ENTERTAINEMENT",(US) LIFETIME MOVIE NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6193
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="(US) COOKING CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/COOKINGCHANNELUHD.png" group-title="US| ENTERTAINEMENT",(US) COOKING CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6194
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="(US) FOOD NETWORK (WEST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FOODNETWORKWESTUHD.png" group-title="US| ENTERTAINEMENT",(US) FOOD NETWORK (WEST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6195
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="(US) FOOD NETWORK (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FOODNETWORKWESTUHD.png" group-title="US| ENTERTAINEMENT",(US) FOOD NETWORK (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6196
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="(US) FOOD NETWORK (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FOODNETWORKWESTUHD.png" group-title="US| ENTERTAINEMENT",(US) FOOD NETWORK (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6197
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="(US) FOOD NETWORK (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FOODNETWORKWESTUHD.png" group-title="US| ENTERTAINEMENT",(US) FOOD NETWORK (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6198
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="(US) HALLMARK MOVIES & MYSTERIES UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HALLMARKMOVIESMYSTERIESUHD.png" group-title="US| ENTERTAINEMENT",(US) HALLMARK MOVIES & MYSTERIES UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6032
+#EXTINF:-1 tvg-id="" tvg-name="(US) HALLMARK DRAMA UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HALLMARKDRAMAUHD.png" group-title="US| ENTERTAINEMENT",(US) HALLMARK DRAMA UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6033
+#EXTINF:-1 tvg-id="" tvg-name="(US) HALLMARK CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HALLMARKUHD.png" group-title="US| ENTERTAINEMENT",(US) HALLMARK CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6043
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="(US) HALLMARK UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HALLMARKUHD.png" group-title="US| ENTERTAINEMENT",(US) HALLMARK UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6042
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="(US) Smithsonian Channel (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SmithsonianChannelWESTHD.png" group-title="US| ENTERTAINEMENT",(US) Smithsonian Channel (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6200
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="(US) SMITHSONIAN (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SmithsonianChannelWESTHD.png" group-title="US| ENTERTAINEMENT",(US) SMITHSONIAN (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6201
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="(US) SMITHSONIAN CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SmithsonianChannelWESTHD.png" group-title="US| ENTERTAINEMENT",(US) SMITHSONIAN CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6202
+#EXTINF:-1 tvg-id="mgm.us" tvg-name="(US) MGM HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/MGMHD.png" group-title="US| ENTERTAINEMENT",(US) MGM HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6208
+#EXTINF:-1 tvg-id="mgm.us" tvg-name="(US) MGM SCI-FI" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/MGMHD.png" group-title="US| ENTERTAINEMENT",(US) MGM SCI-FI
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6209
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="(US) SYFY HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SYFYHD.png" group-title="US| ENTERTAINEMENT",(US) SYFY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6210
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="(US) SYFY WEST HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SYFYHD.png" group-title="US| ENTERTAINEMENT",(US) SYFY WEST HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6211
+#EXTINF:-1 tvg-id="bet.us" tvg-name="(US) BET UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BETUHD.png" group-title="US| ENTERTAINEMENT",(US) BET UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6212
+#EXTINF:-1 tvg-id="bether.us" tvg-name="(US) BET HER UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BETHERUHD.png" group-title="US| ENTERTAINEMENT",(US) BET HER UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6213
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="(US) BET SOUL" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BETSOUL.png" group-title="US| ENTERTAINEMENT",(US) BET SOUL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6214
+#EXTINF:-1 tvg-id="betwest.us" tvg-name="(US) BET (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BETUHD.png" group-title="US| ENTERTAINEMENT",(US) BET (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6215
+#EXTINF:-1 tvg-id="bet.us" tvg-name="(US) BET (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/BETUHD.png" group-title="US| ENTERTAINEMENT",(US) BET (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6216
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="(US) E! UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/E%21.png" group-title="US| ENTERTAINEMENT",(US) E! UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6217
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="(US) E! ENTERTAINMENT TELEVISION (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/E%21.png" group-title="US| ENTERTAINEMENT",(US) E! ENTERTAINMENT TELEVISION (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6218
+#EXTINF:-1 tvg-id="sonyentertainmenttelevisionasia.us" tvg-name="(US) E! ENTERTAINMENT TELEVISION (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/E%21.png" group-title="US| ENTERTAINEMENT",(US) E! ENTERTAINMENT TELEVISION (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6219
+#EXTINF:-1 tvg-id="" tvg-name="(US) PBS HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/PBSHD.png" group-title="US| ENTERTAINEMENT",(US) PBS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6220
+#EXTINF:-1 tvg-id="adultswim.us" tvg-name="(US) ADULT SWIM (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/ADULTSWIM.png" group-title="US| ENTERTAINEMENT",(US) ADULT SWIM (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6221
+#EXTINF:-1 tvg-id="" tvg-name="(US) ABC HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/ABCHD.png" group-title="US| ENTERTAINEMENT",(US) ABC HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6222
+#EXTINF:-1 tvg-id="" tvg-name="(US) FOX HD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FOXHD.png" group-title="US| ENTERTAINEMENT",(US) FOX HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6223
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="(US) COMEDY CENTRAL UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/OMEDYCENTRALUHD.png" group-title="US| ENTERTAINEMENT",(US) COMEDY CENTRAL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6061
+#EXTINF:-1 tvg-id="comedytv.us" tvg-name="(US) COMEDY TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/COMEDYTVUHD.png" group-title="US| ENTERTAINEMENT",(US) COMEDY TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6055
+#EXTINF:-1 tvg-id="" tvg-name="### (US) DOCUMENTARY ###" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/USMUSICFLAG.png" group-title="US| DOCUMENTARY",### (US) DOCUMENTARY ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5935
+#EXTINF:-1 tvg-id="" tvg-name="(US) CRYSTAL PLANET NETFLIX " tvg-logo="http://107.152.105.108:81/netflixlogo.png" group-title="US| DOCUMENTARY",(US) CRYSTAL PLANET NETFLIX 
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/80404
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="(US) ANIMAL PLANET (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/ANIMALPLANETWESTHD.png" group-title="US| DOCUMENTARY",(US) ANIMAL PLANET (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5910
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="(US) ANIMAL PLANET (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/ANIMALPLANETWESTHD.png" group-title="US| DOCUMENTARY",(US) ANIMAL PLANET (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5911
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="(US) ANIMAL PLANET UHD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/ANIMALPLANETWESTHD.png" group-title="US| DOCUMENTARY",(US) ANIMAL PLANET UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5912
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="(US) OUTDOOR CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/OUTDOORCHANNELHD.png" group-title="US| DOCUMENTARY",(US) OUTDOOR CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5913
+#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="(US) TRAVEL CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/TRAVELCHANNELUHD.png" group-title="US| DOCUMENTARY",(US) TRAVEL CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5914
+#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="(US) TRAVEL CHANNEL (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/TRAVELCHANNELUHD.png" group-title="US| DOCUMENTARY",(US) TRAVEL CHANNEL (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5915
+#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="(US) TRAVEL CHANNEL (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/TRAVELCHANNELUHD.png" group-title="US| DOCUMENTARY",(US) TRAVEL CHANNEL (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5916
+#EXTINF:-1 tvg-id="classicartshowcase.us" tvg-name="(US) CLASSIC ARTS SHOWCASE HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/CLASSICARTSSHOWCASEHD.png" group-title="US| DOCUMENTARY",(US) CLASSIC ARTS SHOWCASE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5917
+#EXTINF:-1 tvg-id="" tvg-name="(US) H2 HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/H2HD.png" group-title="US| DOCUMENTARY",(US) H2 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5918
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="(US) HISTORY UHD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/HISTORYHD.png" group-title="US| DOCUMENTARY",(US) HISTORY UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5919
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="(US) HISTORY HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/HISTORYHD.png" group-title="US| DOCUMENTARY",(US) HISTORY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5920
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="(US) DESTINATION AMERICA UHD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DESTINATIONAMERICAUHD.png" group-title="US| DOCUMENTARY",(US) DESTINATION AMERICA UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5921
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="(US) AMERICAN HEROES CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/AMERICANHEROESCHANNELUHD.png" group-title="US| DOCUMENTARY",(US) AMERICAN HEROES CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5922
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="(US) DISCOVERY CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYCHANNELHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66040
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="(US) DISCOVERY SCIENCE HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYSCIENCEHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY SCIENCE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66041
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="(US) DISCOVERY VELOCITY HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYVELOCITYHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY VELOCITY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5923
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="(US) DISCOVERY LIFE HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYLIFEHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY LIFE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5924
+#EXTINF:-1 tvg-id="" tvg-name="(US) DISCOVERY TURBO" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYTURBO.png" group-title="US| DOCUMENTARY",(US) DISCOVERY TURBO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5925
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="(US) DISCOVERY FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYFAMILYHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY FAMILY HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5926
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="(US) DISCOVERY UHD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYUHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5927
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="(US) DISCOVERY (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYUHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5928
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="(US) DISCOVERY (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYUHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5929
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="(US) DISCOVERY INVESTIGATION HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/DISCOVERYINVESTIGATIONHD.png" group-title="US| DOCUMENTARY",(US) DISCOVERY INVESTIGATION HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5930
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="(US) SCIENCE HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/SCIENCEHD.png" group-title="US| DOCUMENTARY",(US) SCIENCE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5931
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="(US) NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/NATIONALGEOGRAPHICWILDHD.png" group-title="US| DOCUMENTARY",(US) NATIONAL GEOGRAPHIC WILD HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5932
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="(US) NATIONAL GEOGRAPHIC HD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/NATIONALGEOGRAPHICHD.png" group-title="US| DOCUMENTARY",(US) NATIONAL GEOGRAPHIC HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5933
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="(US) CRIME & INVESTIGATION UHD" tvg-logo="http://107.152.105.108:81/Logo/USDOCUMENTARY/CRIMEINVESTIGATIONUHD.png" group-title="US| DOCUMENTARY",(US) CRIME & INVESTIGATION UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5934
+#EXTINF:-1 tvg-id="" tvg-name="### (US) SPORTS ###" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/USSPORTSflag.png" group-title="US| SPORTS",### (US) SPORTS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5909
+#EXTINF:-1 tvg-id="nbcsportnwashingtonplus.us" tvg-name="(US) NBC SPORTS WASHINGTON PLUS HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSWASHINGTONPLUSHD.png" group-title="US| SPORTS",(US) NBC SPORTS WASHINGTON PLUS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5834
+#EXTINF:-1 tvg-id="" tvg-name="(US) NBC SPORTS PHILLY PLUS HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSPHILLYPLUSHD.png" group-title="US| SPORTS",(US) NBC SPORTS PHILLY PLUS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5835
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="(US) NBC SPORTS NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSNETWORKHD.png" group-title="US| SPORTS",(US) NBC SPORTS NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5836
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="(US) NBC SPORTS CHICAGO PLUS HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSCHICAGOPLUSHD.png" group-title="US| SPORTS",(US) NBC SPORTS CHICAGO PLUS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5837
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="(US) NBA TV HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBATVHD.png" group-title="US| SPORTS",(US) NBA TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66037
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="(US)  NBC SPORTS PHILADELPHIA HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSPHILADELPHIAHD.png" group-title="US| SPORTS",(US)  NBC SPORTS PHILADELPHIA HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66036
+#EXTINF:-1 tvg-id="nbcsportsnorthwest.us" tvg-name="(US) NBC SPORTS NORTHWEST HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSNORTHWESTHD.png" group-title="US| SPORTS",(US) NBC SPORTS NORTHWEST HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66035
+#EXTINF:-1 tvg-id="nbcsportschicagoplus.us" tvg-name="(US) NBC SPORTS CHICAGO HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSCHICAGOHD.png" group-title="US| SPORTS",(US) NBC SPORTS CHICAGO HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66034
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="(US) NBC SPORTS BOSTON HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSBOSTONHD.png" group-title="US| SPORTS",(US) NBC SPORTS BOSTON HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66033
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="(US) NBC SPORTS BAY AREA+ HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSBAYAREAHD.png" group-title="US| SPORTS",(US) NBC SPORTS BAY AREA+ HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66032
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="(US) NBC SPORTS California + HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSCaliforniaHD.png" group-title="US| SPORTS",(US) NBC SPORTS California + HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5838
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="(US) NBC SPORTS BAY AREA  HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCSPORTSBAYAREAHD.png" group-title="US| SPORTS",(US) NBC SPORTS BAY AREA  HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5839
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="(US) BEIN SPORTS LALIGA UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTSLALIGAUHD.png" group-title="US| SPORTS",(US) BEIN SPORTS LALIGA UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5840
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="(US) BEIN SPORTS LALIGA HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTSLALIGAUHD.png" group-title="US| SPORTS",(US) BEIN SPORTS LALIGA HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5841
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="(US) BEIN SPORTS EN ESPANOL HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTSENESPANOLHD.png" group-title="US| SPORTS",(US) BEIN SPORTS EN ESPANOL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5842
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="(US) BEIN SPORTS 8 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS8HD.png" group-title="US| SPORTS",(US) BEIN SPORTS 8 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5843
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="(US) BEIN SPORTS 8" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS8.png" group-title="US| SPORTS",(US) BEIN SPORTS 8
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5844
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="(US) BEIN SPORTS 7 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS7HD.png" group-title="US| SPORTS",(US) BEIN SPORTS 7 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5845
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="(US) BEIN SPORTS 7" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS7.png" group-title="US| SPORTS",(US) BEIN SPORTS 7
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5846
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="(US) BEIN SPORTS 6 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS6HD.png" group-title="US| SPORTS",(US) BEIN SPORTS 6 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5847
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="(US) BEIN SPORTS 6" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS6.png" group-title="US| SPORTS",(US) BEIN SPORTS 6
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5848
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="(US) BEIN SPORTS 5 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS5HD.png" group-title="US| SPORTS",(US) BEIN SPORTS 5 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5849
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="(US) BEIN SPORTS 4 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS4HD.png" group-title="US| SPORTS",(US) BEIN SPORTS 4 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5850
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="(US) BEIN SPORTS 4" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS4.png" group-title="US| SPORTS",(US) BEIN SPORTS 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5851
+#EXTINF:-1 tvg-id="" tvg-name="(US) BEIN SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTS2.png" group-title="US| SPORTS",(US) BEIN SPORTS 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5852
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="(US) BEIN SPORTS HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BEINSPORTSHD.png" group-title="US| SPORTS",(US) BEIN SPORTS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5853
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="(US) ESPN U HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPNUHD.png" group-title="US| SPORTS",(US) ESPN U HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5854
+#EXTINF:-1 tvg-id="" tvg-name="(US) ESPN SEC NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPNSECNETWORKHD.png" group-title="US| SPORTS",(US) ESPN SEC NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5855
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="(US) ESPN NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPNNEWSHD.png" group-title="US| SPORTS",(US) ESPN NEWS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5856
+#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="(US) ESPN LONGHORN NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPNLONGHORNNETWORKHD.png" group-title="US| SPORTS",(US) ESPN LONGHORN NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5857
+#EXTINF:-1 tvg-id="" tvg-name="(US) ESPN DEPORTES HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPNDEPORTESHD.png" group-title="US| SPORTS",(US) ESPN DEPORTES HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5859
+#EXTINF:-1 tvg-id="" tvg-name="(US) ESPN 3 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPN3HD.png" group-title="US| SPORTS",(US) ESPN 3 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5860
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="(US) ESPN 2 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPN2HD.png" group-title="US| SPORTS",(US) ESPN 2 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5861
+#EXTINF:-1 tvg-id="espn.us" tvg-name="(US) ESPN HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ESPNHD.png" group-title="US| SPORTS",(US) ESPN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5862
+#EXTINF:-1 tvg-id="" tvg-name="(US) UFC 24/7 UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC247UHD.png" group-title="US| SPORTS",(US) UFC 24/7 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5863
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="(US) WWE NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/WWENETWORKHD.png" group-title="US| SPORTS",(US) WWE NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5864
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="(US) AT&T SPORTSNET HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ATTSPORTSNETHD.png" group-title="US| SPORTS",(US) AT&T SPORTSNET HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5865
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="(US) AT&T SPORTSNET SOUTHWEST HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ATTSPORTSNETSOUTHWESTHD.png" group-title="US| SPORTS",(US) AT&T SPORTSNET SOUTHWEST HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5866
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="(US) SPECTRUM SPORTSNET LA HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/SPECTRUMSPORTSNETLAHD.png" group-title="US| SPORTS",(US) SPECTRUM SPORTSNET LA HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66031
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="(US) MARQUEE SPORTS NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/MARQUEESPORTSNETWORKHD.png" group-title="US| SPORTS",(US) MARQUEE SPORTS NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66038
+#EXTINF:-1 tvg-id="" tvg-name="(US) NHL NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NHLNETWORKHD.png" group-title="US| SPORTS",(US) NHL NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5867
+#EXTINF:-1 tvg-id="" tvg-name="(US) NHL NETWORK ALT HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NHLNETWORKALTHD.png" group-title="US| SPORTS",(US) NHL NETWORK ALT HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5868
+#EXTINF:-1 tvg-id="" tvg-name="(US) NHL ARIZONA CAYOTES HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NHLARIZONACAYOTESHD.png" group-title="US| SPORTS",(US) NHL ARIZONA CAYOTES HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5869
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="(US) NFL REDZONE HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NFLREDZONEHD.png" group-title="US| SPORTS",(US) NFL REDZONE HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5870
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="(US) NFL NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NFLNETWORKHD.png" group-title="US| SPORTS",(US) NFL NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5871
+#EXTINF:-1 tvg-id="" tvg-name="(US) GINX ESPORTS TV HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/GINXESPORTSTVHD.png" group-title="US| SPORTS",(US) GINX ESPORTS TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5872
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="(US) ELEVEN SPORTS NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ELEVENSPORTSNETWORKHD.png" group-title="US| SPORTS",(US) ELEVEN SPORTS NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5873
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="(US) TENNIS CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/TENNISCHANNELUHD.png" group-title="US| SPORTS",(US) TENNIS CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5874
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="(US) GOLF CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/GOLFCHANNELUHD.png" group-title="US| SPORTS",(US) GOLF CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5875
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="(US) GOLF CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/GOLFCHANNELUHD.png" group-title="US| SPORTS",(US) GOLF CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5876
+#EXTINF:-1 tvg-id="" tvg-name="(US) FIGHTBOX" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/FIGHTBOX.png" group-title="US| SPORTS",(US) FIGHTBOX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5877
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="(US) FIGHT NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/FIGHTNETWORKHD.png" group-title="US| SPORTS",(US) FIGHT NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5878
+#EXTINF:-1 tvg-id="tycsports.us" tvg-name="(US) TYC SPORTS UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/TYCSPORTSUHD.png" group-title="US| SPORTS",(US) TYC SPORTS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5879
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="(US) MOTORTREND HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/MOTORTRENDHD.png" group-title="US| SPORTS",(US) MOTORTREND HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5880
+#EXTINF:-1 tvg-id="" tvg-name="(US) UFC TV UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFCTVUHD.png" group-title="US| SPORTS",(US) UFC TV UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5881
+#EXTINF:-1 tvg-id="" tvg-name="(US) NBC GOLF HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NBCGOLFHD.png" group-title="US| SPORTS",(US) NBC GOLF HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5882
+#EXTINF:-1 tvg-id="stadium.us" tvg-name="(US) STADIUM 2 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/STADIUM2HD.png" group-title="US| SPORTS",(US) STADIUM 2 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5883
+#EXTINF:-1 tvg-id="stadium.us" tvg-name="(US) STADIUM 1 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/STADIUM1HD.png" group-title="US| SPORTS",(US) STADIUM 1 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5884
+#EXTINF:-1 tvg-id="" tvg-name="(US) SPORTSNET SOUTHWEST HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/SPORTSNETSOUTHWESTHD.png" group-title="US| SPORTS",(US) SPORTSNET SOUTHWEST HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5885
+#EXTINF:-1 tvg-id="" tvg-name="(US) SPORTSNET SOUTHWEST (Alternate) HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/SPORTSNETSOUTHWESTAlternateHD.png" group-title="US| SPORTS",(US) SPORTSNET SOUTHWEST (Alternate) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5886
+#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="(US) SPORTSNET (NEW YORK) HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/SPORTSNETNEWYORKHD.png" group-title="US| SPORTS",(US) SPORTSNET (NEW YORK) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5887
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="(US) SPORTSMAN CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/SPORTSMANCHANNELHD.png" group-title="US| SPORTS",(US) SPORTSMAN CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5888
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="(US) GAME SHOW NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/GAMESHOWNETWORKHD.png" group-title="US| SPORTS",(US) GAME SHOW NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5889
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="(US) SPORTSMAN CHANNEL UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/SPORTSMANCHANNELHD.png" group-title="US| SPORTS",(US) SPORTSMAN CHANNEL UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5890
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="(US) SPECTRUM SPORTSNET UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/SPECTRUMSPORTSNETUHD.png" group-title="US| SPORTS",(US) SPECTRUM SPORTSNET UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5891
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="(US) BIG TEN NETWORK HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BIGTENNETWORKHD.png" group-title="US| SPORTS",(US) BIG TEN NETWORK HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5892
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="(US) BIG TEN NETWORK 4 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BIGTENNETWORK4HD.png" group-title="US| SPORTS",(US) BIG TEN NETWORK 4 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5893
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="(US) BIG TEN NETWORK 3 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BIGTENNETWORK4HD.png" group-title="US| SPORTS",(US) BIG TEN NETWORK 3 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5894
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="(US) BIG TEN NETWORK 2 HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/BIGTENNETWORK4HD.png" group-title="US| SPORTS",(US) BIG TEN NETWORK 2 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5895
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="(US) FOX SPORTS 2 UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/FOXSPORTS2UHD.png" group-title="US| SPORTS",(US) FOX SPORTS 2 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5896
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="(US) FOX SPORTS 1 UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/FOXSPORTS1UHD.png" group-title="US| SPORTS",(US) FOX SPORTS 1 UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5897
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="(US) CBS SPORTS NETWORK UHD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/CBSSPORTSNETWORKUHD.png" group-title="US| SPORTS",(US) CBS SPORTS NETWORK UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5898
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="(US) Fox Soccer Plus HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/FoxSoccerPlusHD.png" group-title="US| SPORTS",(US) Fox Soccer Plus HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5899
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="(US) FOX DEPORTES HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/FOXDEPORTESHD.png" group-title="US| SPORTS",(US) FOX DEPORTES HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5900
+#EXTINF:-1 tvg-id="tycsports.us" tvg-name="(US) TYC SPORTS HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/TYCSPORTSHD.png" group-title="US| SPORTS",(US) TYC SPORTS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5902
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="(US) NESN PLUS HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NESNPLUSHD.png" group-title="US| SPORTS",(US) NESN PLUS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5905
+#EXTINF:-1 tvg-id="" tvg-name="(US) NESN BOSTON HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NESNBOSTONHD.png" group-title="US| SPORTS",(US) NESN BOSTON HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5906
+#EXTINF:-1 tvg-id="newenglandcablenews.us" tvg-name="(US) NECN HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NECNHD.png" group-title="US| SPORTS",(US) NECN HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5907
+#EXTINF:-1 tvg-id="" tvg-name="(US) ATLANTA CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/ATLANTACHANNELHD.png" group-title="US| SPORTS",(US) ATLANTA CHANNEL HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5908
+#EXTINF:-1 tvg-id="" tvg-name="### (US) MUSIC ###" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/USMUSICFLAG.png" group-title="US| MUSIC",### (US) MUSIC ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/51905
+#EXTINF:-1 tvg-id="" tvg-name="(US) CRYSTAL RAP MUSIC" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/MUSICLOGO.png" group-title="US| MUSIC",(US) CRYSTAL RAP MUSIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/72402
+#EXTINF:-1 tvg-id="" tvg-name="(US) CRYSTAL HIT MUSIC " tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/MUSICLOGO.png" group-title="US| MUSIC",(US) CRYSTAL HIT MUSIC 
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/72404
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC Y2K" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICY2K.png" group-title="US| MUSIC",(US) MC MUSIC Y2K
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5937
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC TROPICALES" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICTROPICALES.png" group-title="US| MUSIC",(US) MC MUSIC TROPICALES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5938
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC TODDLER TUNES" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICTODDLERTUNES.png" group-title="US| MUSIC",(US) MC MUSIC TODDLER TUNES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5939
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC TODAYS COUNTRY" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICTODAYSCOUNTRY.png" group-title="US| MUSIC",(US) MC MUSIC TODAYS COUNTRY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5940
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC THROWBACK JAMZ" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/THROWBACKJAMZ.png" group-title="US| MUSIC",(US) MC MUSIC THROWBACK JAMZ
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5941
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC TEEN BEATS" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/TEENBEATS.png" group-title="US| MUSIC",(US) MC MUSIC TEEN BEATS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5942
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC ROCK" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICROCK.png" group-title="US| MUSIC",(US) MC MUSIC ROCK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5944
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC RAP 2K" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/RAP2K.png" group-title="US| MUSIC",(US) MC MUSIC RAP 2K
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5945
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC RAP" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICRAP.png" group-title="US| MUSIC",(US) MC MUSIC RAP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5946
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC R&B SOUL" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICR%26BSOUL.png" group-title="US| MUSIC",(US) MC MUSIC R&B SOUL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5947
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC R&B" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICR%26B.png" group-title="US| MUSIC",(US) MC MUSIC R&B
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5948
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC POP LATINO" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICPOPLATINO.png" group-title="US| MUSIC",(US) MC MUSIC POP LATINO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5949
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC POP HITS" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICPOPHITS.png" group-title="US| MUSIC",(US) MC MUSIC POP HITS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5950
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC POP & COUNTRY" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/POP%26COUNTRY.png" group-title="US| MUSIC",(US) MC MUSIC POP & COUNTRY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5951
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC MEXICANA" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICMEXICANA.png" group-title="US| MUSIC",(US) MC MUSIC MEXICANA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5952
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC METAL" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICMETAL.png" group-title="US| MUSIC",(US) MC MUSIC METAL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5953
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC KIDZ ONLY!" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICKIDZONLY.png" group-title="US| MUSIC",(US) MC MUSIC KIDZ ONLY!
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5954
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC INDIE" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICINDIE.png" group-title="US| MUSIC",(US) MC MUSIC INDIE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5956
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC HIT LIST" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICHITLIST.png" group-title="US| MUSIC",(US) MC MUSIC HIT LIST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5959
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC HIP-HOP AND R&B" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICHIPHOPANDR%26B.png" group-title="US| MUSIC",(US) MC MUSIC HIP-HOP AND R&B
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5960
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC DANCE/ EDM" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICDANCEEDM.png" group-title="US| MUSIC",(US) MC MUSIC DANCE/ EDM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5961
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC BRITISH HITS" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICBRITISHHITS.png" group-title="US| MUSIC",(US) MC MUSIC BRITISH HITS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5962
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC ALTERNATIVE" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSICALTERNATIVE.png" group-title="US| MUSIC",(US) MC MUSIC ALTERNATIVE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5963
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="(US) CMT HD" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/CMTHD.png" group-title="US| MUSIC",(US) CMT HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66042
+#EXTINF:-1 tvg-id="" tvg-name="(US) MC MUSIC 90S" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/MCMUSIC90S.png" group-title="US| MUSIC",(US) MC MUSIC 90S
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/5964
+#EXTINF:-1 tvg-id="" tvg-name="### (US) KIDS ###" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/USGENERAL.png" group-title="US| KIDS",### (US) KIDS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/51906
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="(US) BABY FIRST UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/BABYFIRSTUHD.png" group-title="US| KIDS",(US) BABY FIRST UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6054
+#EXTINF:-1 tvg-id="" tvg-name="(US) TEEN TITANS GO! HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/TEENTITANSGOHD.png" group-title="US| KIDS",(US) TEEN TITANS GO! HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6056
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="(US) DISNEY XD (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/DISNEYXDEASTHD.png" group-title="US| KIDS",(US) DISNEY XD (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6058
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="(US) DISNEY JR HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/DISNEYJRHD.png" group-title="US| KIDS",(US) DISNEY JR HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6059
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="(US) DISNEY CHANNEL (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/DISNEYCHANNELEASTHD.png" group-title="US| KIDS",(US) DISNEY CHANNEL (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6060
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="(US) NICK JR UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKJRUHD.png" group-title="US| KIDS",(US) NICK JR UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6062
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="(US) PBS KIDS HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/PBSKIDSHD.png" group-title="US| KIDS",(US) PBS KIDS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6063
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="(US) CARTOON NETWORK (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/CARTOONNETWORKWESTHD.png" group-title="US| KIDS",(US) CARTOON NETWORK (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6064
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="(US) CARTOON NETWORK (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/CARTOONNETWORKWESTHD.png" group-title="US| KIDS",(US) CARTOON NETWORK (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6065
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="(US) CARTOON NETWORK (WEST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/CARTOONNETWORKWESTHD.png" group-title="US| KIDS",(US) CARTOON NETWORK (WEST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6066
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="(US) CARTOON NETWORK (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/CARTOONNETWORKWESTHD.png" group-title="US| KIDS",(US) CARTOON NETWORK (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6067
+#EXTINF:-1 tvg-id="" tvg-name="(US) MR. BEAN CARTOON WORLD UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/MRBEANCARTOONWORLDUHD.png" group-title="US| KIDS",(US) MR. BEAN CARTOON WORLD UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6068
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="(US) TEEN NICK UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/TEENNICKUHD.png" group-title="US| KIDS",(US) TEEN NICK UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6069
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="(US) NICKTOONS UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKTOONSUHD.png" group-title="US| KIDS",(US) NICKTOONS UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6070
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="(US) NICKTOONS HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKTOONSUHD.png" group-title="US| KIDS",(US) NICKTOONS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6071
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="(US) NICKELODEON (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKELODEONWESTHD.png" group-title="US| KIDS",(US) NICKELODEON (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6072
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="(US) NICKELODEON (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKELODEONWESTHD.png" group-title="US| KIDS",(US) NICKELODEON (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6073
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="(US) NICK TOONS HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKTOONSHD.png" group-title="US| KIDS",(US) NICK TOONS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6074
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="(US) NICK MUSIC" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKMUSIC.png" group-title="US| KIDS",(US) NICK MUSIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6075
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="(US) NICK JR (WEST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKJRWESTHD.png" group-title="US| KIDS",(US) NICK JR (WEST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6076
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="(US) NICK JR (EAST) HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/NICKJRWESTHD.png" group-title="US| KIDS",(US) NICK JR (EAST) HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6077
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="(US) UNIVERSAL KIDS (EAST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/UNIVERSALKIDSEASTUHD.png" group-title="US| KIDS",(US) UNIVERSAL KIDS (EAST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6078
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="(US) BOOMERANG " tvg-logo="http://107.152.105.108:81/Logo/USKIDS/BOOMERANG.png" group-title="US| KIDS",(US) BOOMERANG 
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66056
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="(US) UNIVERSAL KIDS HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/UNIVERSALKIDSHD.png" group-title="US| KIDS",(US) UNIVERSAL KIDS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66055
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="(US) UNIVERSAL KIDS (WEST) UHD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/UNIVERSALKIDSEASTUHD.png" group-title="US| KIDS",(US) UNIVERSAL KIDS (WEST) UHD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6079
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="(US) BABY FIRST TV HD" tvg-logo="http://107.152.105.108:81/Logo/USKIDS/BABYFIRSTTVHD.png" group-title="US| KIDS",(US) BABY FIRST TV HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/6080
+#EXTINF:-1 tvg-id="" tvg-name="### 24/7 USA ###" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/USAFLAG.png" group-title="AM| USA 24/7 MOVIES",### 24/7 USA ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4189
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JEREMY KYLE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JEREMYKYLE.png" group-title="AM| USA 24/7 MOVIES",24/7 JEREMY KYLE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BADGIRLS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BADGIRLS.png" group-title="AM| USA 24/7 MOVIES",24/7 BADGIRLS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCOBBYDOO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SCOBBYDOO.png" group-title="AM| USA 24/7 MOVIES",24/7 SCOBBYDOO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4186
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE.DOG.WHISPERER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEDOGWHISPERER.png" group-title="AM| USA 24/7 MOVIES",24/7 THE.DOG.WHISPERER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4185
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPONGEBOBSQPANTS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SPONGEBOBSQPANTS.png" group-title="AM| USA 24/7 MOVIES",24/7 SPONGEBOBSQPANTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4184
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MRS.BROWNSBOYS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MRSBROWNSBOYS.png" group-title="AM| USA 24/7 MOVIES",24/7 MRS.BROWNSBOYS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4183
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SOFIAFIRST" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SOFIAFIRST.png" group-title="AM| USA 24/7 MOVIES",24/7 SOFIAFIRST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE DUKES OF HAZZARD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEDUKESOFHAZZARD.png" group-title="AM| USA 24/7 MOVIES",24/7 THE DUKES OF HAZZARD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4181
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STEPTOE&SON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STEPTOESON.png" group-title="AM| USA 24/7 MOVIES",24/7 STEPTOE&SON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4180
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PORRIDGE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PORRIDGE.png" group-title="AM| USA 24/7 MOVIES",24/7 PORRIDGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4179
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOM&JERRY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TOMJERRY.png" group-title="AM| USA 24/7 MOVIES",24/7 TOM&JERRY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4178
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PEPPAPIG.png" group-title="AM| USA 24/7 MOVIES",24/7 PEPPA PIG
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4177
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAWN STARS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PAWNSTARS.png" group-title="AM| USA 24/7 MOVIES",24/7 PAWN STARS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4176
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CRACKER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CRACKER.png" group-title="AM| USA 24/7 MOVIES",24/7 CRACKER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4175
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GRAND TOUR" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEGRANDTOUR.png" group-title="AM| USA 24/7 MOVIES",24/7 THE GRAND TOUR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4174
+#EXTINF:-1 tvg-id="" tvg-name="24/7 24 HOURS IN POLICE CUSTODY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/24HOURSINPOLICECUSTODY.png" group-title="AM| USA 24/7 MOVIES",24/7 24 HOURS IN POLICE CUSTODY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4173
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AUF WIEDERSEHEN PET" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/AUFWIEDERSEHENPET.png" group-title="AM| USA 24/7 MOVIES",24/7 AUF WIEDERSEHEN PET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4172
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ORANGE IS THE NEW BLACK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ORANGEISTHENEWBLACK.png" group-title="AM| USA 24/7 MOVIES",24/7 ORANGE IS THE NEW BLACK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4171
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGONS DEN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DRAGONSDEN.png" group-title="AM| USA 24/7 MOVIES",24/7 DRAGONS DEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4170
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING BAD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BREAKINGBAD.png" group-title="AM| USA 24/7 MOVIES",24/7 BREAKING BAD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4169
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRIENDS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FRIENDS.png" group-title="AM| USA 24/7 MOVIES",24/7 FRIENDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY GUY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FAMILYGUY.png" group-title="AM| USA 24/7 MOVIES",24/7 FAMILY GUY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4167
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GHOST WHISPERER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GHOSTWHISPERER.png" group-title="AM| USA 24/7 MOVIES",24/7 GHOST WHISPERER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOG THE BOUNTY HUNTER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DOGTHEBOUNTYHUNTER.png" group-title="AM| USA 24/7 MOVIES",24/7 DOG THE BOUNTY HUNTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4165
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN ANIMATED" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MRBEANANIMATED.png" group-title="AM| USA 24/7 MOVIES",24/7 MR BEAN ANIMATED
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4164
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOLD RUSH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GOLDRUSH.png" group-title="AM| USA 24/7 MOVIES",24/7 GOLD RUSH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4163
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOLD RUSH WHITE WATER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GOLDRUSHWHITEWATER.png" group-title="AM| USA 24/7 MOVIES",24/7 GOLD RUSH WHITE WATER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HARDCORE PAWN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HARDCOREPAWN.png" group-title="AM| USA 24/7 MOVIES",24/7 HARDCORE PAWN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MICKEY MOUSE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MICKEYMOUSE.png" group-title="AM| USA 24/7 MOVIES",24/7 MICKEY MOUSE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4160
+#EXTINF:-1 tvg-id="" tvg-name="24/7 999 WHATS YOUR EMERGANCY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/999WHATSYOUREMERGANCY.png" group-title="AM| USA 24/7 MOVIES",24/7 999 WHATS YOUR EMERGANCY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4159
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAW & ORDER: SPECIAL VICTIMS UNIT HD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LAWORDERSPECIALVICTIMSUNITHD.png" group-title="AM| USA 24/7 MOVIES",24/7 LAW & ORDER: SPECIAL VICTIMS UNIT HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/65611
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SEX AND THE CITY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SEXANDTHECITY.png" group-title="AM| USA 24/7 MOVIES",24/7 SEX AND THE CITY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/65610
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HATERS BACK OFF" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HATERSBACKOFF.png" group-title="AM| USA 24/7 MOVIES",24/7 HATERS BACK OFF
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4158
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE LOUD HOUSE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THELOUDHOUSE.png" group-title="AM| USA 24/7 MOVIES",24/7 THE LOUD HOUSE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4157
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOP GEAR" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TOPGEAR.png" group-title="AM| USA 24/7 MOVIES",24/7 TOP GEAR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4156
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE SIMPSONS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THESIMPSONS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE SIMPSONS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4155
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WENTWORTH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WENTWORTH.png" group-title="AM| USA 24/7 MOVIES",24/7 WENTWORTH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4154
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SOUTH BEACH TOWING" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SOUTHBEACHTOWING.png" group-title="AM| USA 24/7 MOVIES",24/7 SOUTH BEACH TOWING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4153
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WHEELER DEALERS TRADING UP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WHEELERDEALERSTRADINGUP.png" group-title="AM| USA 24/7 MOVIES",24/7 WHEELER DEALERS TRADING UP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4152
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHEATERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CHEATERS.png" group-title="AM| USA 24/7 MOVIES",24/7 CHEATERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4151
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DORA THE EXPLORER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DORATHEEXPLORER.png" group-title="AM| USA 24/7 MOVIES",24/7 DORA THE EXPLORER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4150
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FIRST 48HRS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEFIRST48HRS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE FIRST 48HRS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4149
+#EXTINF:-1 tvg-id="" tvg-name="24/7 60 DAYS IN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/60DAYSIN.png" group-title="AM| USA 24/7 MOVIES",24/7 60 DAYS IN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4148
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PAWPATROL.png" group-title="AM| USA 24/7 MOVIES",24/7 PAW PATROL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4147
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STILL GAME" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STILLGAME.png" group-title="AM| USA 24/7 MOVIES",24/7 STILL GAME
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4146
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GARFIELD SHOW" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEGARFIELDSHOW.png" group-title="AM| USA 24/7 MOVIES",24/7 THE GARFIELD SHOW
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4145
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWO DOORS DOWN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TWODOORSDOWN.png" group-title="AM| USA 24/7 MOVIES",24/7 TWO DOORS DOWN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4144
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INK MASTERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/INKMASTERS.png" group-title="AM| USA 24/7 MOVIES",24/7 INK MASTERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4143
+#EXTINF:-1 tvg-id="" tvg-name="24/7 OPERATION REPO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/OPERATIONREPO.png" group-title="AM| USA 24/7 MOVIES",24/7 OPERATION REPO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4142
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LETHAL WEAPON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LETHALWEAPON.png" group-title="AM| USA 24/7 MOVIES",24/7 LETHAL WEAPON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4141
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN PICKERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/AMERICANPICKERS.png" group-title="AM| USA 24/7 MOVIES",24/7 AMERICAN PICKERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4140
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ICE ROAD TRUCKERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ICEROADTRUCKERS.png" group-title="AM| USA 24/7 MOVIES",24/7 ICE ROAD TRUCKERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4139
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KITCHEN NIGHMARES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/KITCHENNIGHMARES.png" group-title="AM| USA 24/7 MOVIES",24/7 KITCHEN NIGHMARES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4138
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWO PINTS OF LAGER AND A PACKET OF CRISPS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TWOPINTSOFLAGERANDAPACKETOFCRISPS.png" group-title="AM| USA 24/7 MOVIES",24/7 TWO PINTS OF LAGER AND A PACKET OF CRISPS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4137
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN CHOPPER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/AMERICANCHOPPER.png" group-title="AM| USA 24/7 MOVIES",24/7 AMERICAN CHOPPER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4136
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FLINTSTONES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEFLINTSTONES.png" group-title="AM| USA 24/7 MOVIES",24/7 THE FLINTSTONES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4135
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DEADBEAT" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DEADBEAT.png" group-title="AM| USA 24/7 MOVIES",24/7 DEADBEAT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4134
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NARCO MEXICO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/NARCOMEXICO.png" group-title="AM| USA 24/7 MOVIES",24/7 NARCO MEXICO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4133
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CURIOUS GEORGE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CURIOUSGEORGE.png" group-title="AM| USA 24/7 MOVIES",24/7 CURIOUS GEORGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4132
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EASTENDERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/EASTENDERS.png" group-title="AM| USA 24/7 MOVIES",24/7 EASTENDERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4131
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FORENSIC FILES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FORENSICFILES.png" group-title="AM| USA 24/7 MOVIES",24/7 FORENSIC FILES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4130
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DUCK TALES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DUCKTALES.png" group-title="AM| USA 24/7 MOVIES",24/7 DUCK TALES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4129
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE A TEAM" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEATEAM.png" group-title="AM| USA 24/7 MOVIES",24/7 THE A TEAM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4128
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RANDEL & HOPKINS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/RANDELHOPKINS.png" group-title="AM| USA 24/7 MOVIES",24/7 RANDEL & HOPKINS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4127
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EVERYBODY HATES CHRIS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/EVERYBODYHATESCHRIS.png" group-title="AM| USA 24/7 MOVIES",24/7 EVERYBODY HATES CHRIS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4126
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DUNGEONS & DRAGONS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DUNGEONSDRAGONS.png" group-title="AM| USA 24/7 MOVIES",24/7 DUNGEONS & DRAGONS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4125
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHANCER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CHANCER.png" group-title="AM| USA 24/7 MOVIES",24/7 CHANCER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4124
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DARK MATTER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DARKMATTER.png" group-title="AM| USA 24/7 MOVIES",24/7 DARK MATTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4123
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MAGICIANS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEMAGICIANS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE MAGICIANS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALMOST HUMAN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ALMOSTHUMAN.png" group-title="AM| USA 24/7 MOVIES",24/7 ALMOST HUMAN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JERICO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JERICO.png" group-title="AM| USA 24/7 MOVIES",24/7 JERICO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 REAPER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/REAPER.png" group-title="AM| USA 24/7 MOVIES",24/7 REAPER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4119
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VAN HELSING" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/VANHELSING.png" group-title="AM| USA 24/7 MOVIES",24/7 VAN HELSING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4118
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE OFFICE UK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEOFFICEUK.png" group-title="AM| USA 24/7 MOVIES",24/7 THE OFFICE UK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4117
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RISING DAMP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/RISINGDAMP.png" group-title="AM| USA 24/7 MOVIES",24/7 RISING DAMP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4116
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NOVA" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/NOVA.png" group-title="AM| USA 24/7 MOVIES",24/7 NOVA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4115
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALTERED CARBON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ALTEREDCARBON.png" group-title="AM| USA 24/7 MOVIES",24/7 ALTERED CARBON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4114
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COBRA KAI" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/COBRAKAI.png" group-title="AM| USA 24/7 MOVIES",24/7 COBRA KAI
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4113
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOOM PATROL" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DOOMPATROL.png" group-title="AM| USA 24/7 MOVIES",24/7 DOOM PATROL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4112
+#EXTINF:-1 tvg-id="" tvg-name="24/7 IMPLUSE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/IMPLUSE.png" group-title="AM| USA 24/7 MOVIES",24/7 IMPLUSE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4111
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BILLY CONNOLLY STAND UP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BILLYCONNOLLYSTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 BILLY CONNOLLY STAND UP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4110
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLACKADDER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BLACKADDER.png" group-title="AM| USA 24/7 MOVIES",24/7 BLACKADDER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4109
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DREAMWORKS ANIMATION" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DREAMWORKSANIMATION.png" group-title="AM| USA 24/7 MOVIES",24/7 DREAMWORKS ANIMATION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4108
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ENTOURAGE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ENTOURAGE.png" group-title="AM| USA 24/7 MOVIES",24/7 ENTOURAGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4107
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EVER DECREASING CIRCLES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/EVERDECREASINGCIRCLES.png" group-title="AM| USA 24/7 MOVIES",24/7 EVER DECREASING CIRCLES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4106
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EVERYBODY LOVES RAYMOND" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/EVERYBODYLOVESRAYMOND.png" group-title="AM| USA 24/7 MOVIES",24/7 EVERYBODY LOVES RAYMOND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4105
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOTHAM" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GOTHAM.png" group-title="AM| USA 24/7 MOVIES",24/7 GOTHAM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4104
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HALLOWEEN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HALLOWEEN.png" group-title="AM| USA 24/7 MOVIES",24/7 HALLOWEEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4103
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY DAYS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HAPPYDAYS.png" group-title="AM| USA 24/7 MOVIES",24/7 HAPPY DAYS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4102
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HARRYPOTTER.png" group-title="AM| USA 24/7 MOVIES",24/7 HARRY POTTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4101
+#EXTINF:-1 tvg-id="" tvg-name="24/7 IN THE NIGHT GARDEN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/INTHENIGHTGARDEN.png" group-title="AM| USA 24/7 MOVIES",24/7 IN THE NIGHT GARDEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4100
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INDIANA JONES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/INDIANAJONES.png" group-title="AM| USA 24/7 MOVIES",24/7 INDIANA JONES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4099
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JACKASS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JACKASS.png" group-title="AM| USA 24/7 MOVIES",24/7 JACKASS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4098
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JAMES BOND" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JAMESBOND.png" group-title="AM| USA 24/7 MOVIES",24/7 JAMES BOND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4097
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JASON BOURNE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/7JASONBOURNE.png" group-title="AM| USA 24/7 MOVIES",24/7 JASON BOURNE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JIMMY CARR STAND UP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JIMMYCARRSTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 JIMMY CARR STAND UP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4095
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SOME MOTHERS DO AVE EM" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SOMEMOTHERSDOAVEEM.png" group-title="AM| USA 24/7 MOVIES",24/7 SOME MOTHERS DO AVE EM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4094
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SOUTH PARK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SOUTHPARK.png" group-title="AM| USA 24/7 MOVIES",24/7 SOUTH PARK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4093
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER MAN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SPIDERMAN.png" group-title="AM| USA 24/7 MOVIES",24/7 SPIDER MAN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4092
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GOLDBERGS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEGOLDBERGS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE GOLDBERGS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4091
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GOLDEN GIRLS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEGOLDENGIRLS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE GOLDEN GIRLS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4090
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GOOD LIFE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEGOODLIFE.png" group-title="AM| USA 24/7 MOVIES",24/7 THE GOOD LIFE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4089
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GOOD PLACE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEGOODPLACE.png" group-title="AM| USA 24/7 MOVIES",24/7 THE GOOD PLACE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4088
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE HUNGER GAMES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEHUNGERGAMES.png" group-title="AM| USA 24/7 MOVIES",24/7 THE HUNGER GAMES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4087
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE INBETWEENERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEINBETWEENERS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE INBETWEENERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4086
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOP CAT" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TOPCAT.png" group-title="AM| USA 24/7 MOVIES",24/7 TOP CAT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4085
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRAILER PARK BOYS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TRAILERPARKBOYS.png" group-title="AM| USA 24/7 MOVIES",24/7 TRAILER PARK BOYS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4084
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRUE BLOOD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TRUEBLOOD.png" group-title="AM| USA 24/7 MOVIES",24/7 TRUE BLOOD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4083
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWO AND A HALF MEN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TWOANDAHALFMEN.png" group-title="AM| USA 24/7 MOVIES",24/7 TWO AND A HALF MEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4082
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WRESTLEMANIA" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WRESTLEMANIA.png" group-title="AM| USA 24/7 MOVIES",24/7 WRESTLEMANIA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4081
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WRESTLEMANIA2" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WRESTLEMANIA2.png" group-title="AM| USA 24/7 MOVIES",24/7 WRESTLEMANIA2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4080
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X MEN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/XMEN.png" group-title="AM| USA 24/7 MOVIES",24/7 X MEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4079
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X-MEN CARTOON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/XMENCARTOON.png" group-title="AM| USA 24/7 MOVIES",24/7 X-MEN CARTOON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4078
+#EXTINF:-1 tvg-id="" tvg-name="24/7 YES MINISTER/PRIME MINISTER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/YESMINISTERPRIMEMINISTER.png" group-title="AM| USA 24/7 MOVIES",24/7 YES MINISTER/PRIME MINISTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4077
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PETER KAY STAND UP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PETERKAYSTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 PETER KAY STAND UP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4076
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PETER KAYS PHOENIX NIGHTS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PETERKAYSPHOENIXNIGHTS.png" group-title="AM| USA 24/7 MOVIES",24/7 PETER KAYS PHOENIX NIGHTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4075
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PIRATES OF THE CARIBBEAN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PIRATESOFTHECARIBBEAN.png" group-title="AM| USA 24/7 MOVIES",24/7 PIRATES OF THE CARIBBEAN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4074
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/POKEMON.png" group-title="AM| USA 24/7 MOVIES",24/7 POKEMON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4073
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POLDARK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/POLDARK.png" group-title="AM| USA 24/7 MOVIES",24/7 POLDARK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4072
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POPEYE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/POPEYE.png" group-title="AM| USA 24/7 MOVIES",24/7 POPEYE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4071
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRISON BREAK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRISONBREAK.png" group-title="AM| USA 24/7 MOVIES",24/7 PRISON BREAK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4070
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MICKEY MOUSE CLUBHOUSE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MICKEYMOUSECLUBHOUSE.png" group-title="AM| USA 24/7 MOVIES",24/7 MICKEY MOUSE CLUBHOUSE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4069
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MICKY FLANAGAN STAND UP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MICKYFLANAGANSTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 MICKY FLANAGAN STAND UP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4068
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MINDER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MINDER.png" group-title="AM| USA 24/7 MOVIES",24/7 MINDER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4067
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DISNEY.png" group-title="AM| USA 24/7 MOVIES",24/7 DISNEY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4066
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY MOVIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DISNEYMOVIES.png" group-title="AM| USA 24/7 MOVIES",24/7 DISNEY MOVIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4065
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY MOVIES 2" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DISNEYMOVIES2.png" group-title="AM| USA 24/7 MOVIES",24/7 DISNEY MOVIES 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4064
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLACK MIRROR" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BLACKMIRROR.png" group-title="AM| USA 24/7 MOVIES",24/7 BLACK MIRROR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4063
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INSIDE NO9" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/INSIDENO9.png" group-title="AM| USA 24/7 MOVIES",24/7 INSIDE NO9
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4062
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KILLING EVE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/KILLINGEVE.png" group-title="AM| USA 24/7 MOVIES",24/7 KILLING EVE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4061
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SWAMP THING" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SWAMPTHING.png" group-title="AM| USA 24/7 MOVIES",24/7 SWAMP THING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4060
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BEING ERICA" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BEINGERICA.png" group-title="AM| USA 24/7 MOVIES",24/7 BEING ERICA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4059
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ONCE UPON A TIME" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ONCEUPONATIME.png" group-title="AM| USA 24/7 MOVIES",24/7 ONCE UPON A TIME
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4058
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FATHER TED" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FATHERTED.png" group-title="AM| USA 24/7 MOVIES",24/7 FATHER TED
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4057
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ONLY WHEN I LAUGH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ONLYWHENILAUGH.png" group-title="AM| USA 24/7 MOVIES",24/7 ONLY WHEN I LAUGH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4056
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CAREBEARS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CAREBEARS.png" group-title="AM| USA 24/7 MOVIES",24/7 CAREBEARS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4055
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARTIN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MARTIN.png" group-title="AM| USA 24/7 MOVIES",24/7 MARTIN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4054
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER MARIO BROS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SUPERMARIOBROS.png" group-title="AM| USA 24/7 MOVIES",24/7 SUPER MARIO BROS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4053
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDER BIRDS ARE GO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THUNDERBIRDSAREGO.png" group-title="AM| USA 24/7 MOVIES",24/7 THUNDER BIRDS ARE GO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4052
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XTREME WORKOUT" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/XTREMEWORKOUT.png" group-title="AM| USA 24/7 MOVIES",24/7 XTREME WORKOUT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4051
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DROP THE DEAD DONKEY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DROPTHEDEADDONKEY.png" group-title="AM| USA 24/7 MOVIES",24/7 DROP THE DEAD DONKEY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4050
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE OSBOURNES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEOSBOURNES.png" group-title="AM| USA 24/7 MOVIES",24/7 THE OSBOURNES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4049
+#EXTINF:-1 tvg-id="" tvg-name="24/7 YO GABBA GABBA" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/YOGABBAGABBA.png" group-title="AM| USA 24/7 MOVIES",24/7 YO GABBA GABBA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4048
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STINGRAY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STINGRAY.png" group-title="AM| USA 24/7 MOVIES",24/7 STINGRAY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4047
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOSSIP GIRLS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GOSSIPGIRLS.png" group-title="AM| USA 24/7 MOVIES",24/7 GOSSIP GIRLS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4046
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WRESTLING" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WRESTLING.png" group-title="AM| USA 24/7 MOVIES",24/7 WRESTLING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4045
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KEVIN BRIDGES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/KEVINBRIDGES.png" group-title="AM| USA 24/7 MOVIES",24/7 KEVIN BRIDGES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4044
+#EXTINF:-1 tvg-id="" tvg-name="24/7 READING RAINBOW" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/READINGRAINBOW.png" group-title="AM| USA 24/7 MOVIES",24/7 READING RAINBOW
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4043
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLAZE AND THE MONSTER MACHINES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BLAZEANDTHEMONSTERMACHINES.png" group-title="AM| USA 24/7 MOVIES",24/7 BLAZE AND THE MONSTER MACHINES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4042
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JOHN DOE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JOHNDOE.png" group-title="AM| USA 24/7 MOVIES",24/7 JOHN DOE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4041
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GIRLS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GIRLS.png" group-title="AM| USA 24/7 MOVIES",24/7 GIRLS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4040
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GHOST WRITTER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GHOSTWRITTER.png" group-title="AM| USA 24/7 MOVIES",24/7 GHOST WRITTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4039
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DA ALI G SHOW" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DAALIGSHOW.png" group-title="AM| USA 24/7 MOVIES",24/7 DA ALI G SHOW
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4038
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOAST OF LONDON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TOASTOFLONDON.png" group-title="AM| USA 24/7 MOVIES",24/7 TOAST OF LONDON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4037
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KNIGHT RIDER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/KNIGHTRIDER.png" group-title="AM| USA 24/7 MOVIES",24/7 KNIGHT RIDER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4036
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CALL THE MIDWIFE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CALLTHEMIDWIFE.png" group-title="AM| USA 24/7 MOVIES",24/7 CALL THE MIDWIFE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4035
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ON THE BUSES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ONTHEBUSES.png" group-title="AM| USA 24/7 MOVIES",24/7 ON THE BUSES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4034
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RIPPER STREET" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/RIPPERSTREET.png" group-title="AM| USA 24/7 MOVIES",24/7 RIPPER STREET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4033
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MASHA THE BEAR" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MASHATHEBEAR.png" group-title="AM| USA 24/7 MOVIES",24/7 MASHA THE BEAR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4032
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUE PLANET" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BLUEPLANET.png" group-title="AM| USA 24/7 MOVIES",24/7 BLUE PLANET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4031
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BUG BUNNY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BUGBUNNY.png" group-title="AM| USA 24/7 MOVIES",24/7 BUG BUNNY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4030
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CELEBRITY DEATH MATCH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CELEBRITYDEATHMATCH.png" group-title="AM| USA 24/7 MOVIES",24/7 CELEBRITY DEATH MATCH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4029
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DUCK DODGERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DUCKDODGERS.png" group-title="AM| USA 24/7 MOVIES",24/7 DUCK DODGERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4028
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CITIZEN KHAN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CITIZENKHAN.png" group-title="AM| USA 24/7 MOVIES",24/7 CITIZEN KHAN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4027
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHUCK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CHUCK.png" group-title="AM| USA 24/7 MOVIES",24/7 CHUCK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4026
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FALL GUY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEFALLGUY.png" group-title="AM| USA 24/7 MOVIES",24/7 THE FALL GUY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4025
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOW TO GET AWAY WITH MURDER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HOWTOGETAWAYWITHMURDER.png" group-title="AM| USA 24/7 MOVIES",24/7 HOW TO GET AWAY WITH MURDER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4024
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MRBEAN.png" group-title="AM| USA 24/7 MOVIES",24/7 MR BEAN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4023
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MONKEY MAGIC" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MONKEYMAGIC.png" group-title="AM| USA 24/7 MOVIES",24/7 MONKEY MAGIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4022
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MICHAEL MCINTYRE STAND UP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MICHAELMCINTYRESTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 MICHAEL MCINTYRE STAND UP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4021
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN DAD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/AMERICANDAD.png" group-title="AM| USA 24/7 MOVIES",24/7 AMERICAN DAD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4020
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AVATAR" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/AVATAR.png" group-title="AM| USA 24/7 MOVIES",24/7 AVATAR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4019
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOBS BURGERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BOBSBURGERS.png" group-title="AM| USA 24/7 MOVIES",24/7 BOBS BURGERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4018
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DAREDEVIL" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DAREDEVIL.png" group-title="AM| USA 24/7 MOVIES",24/7 DAREDEVIL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4017
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DR SEUSS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DRSEUSS.png" group-title="AM| USA 24/7 MOVIES",24/7 DR SEUSS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4016
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAWLTY TOWERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FAWLTYTOWERS.png" group-title="AM| USA 24/7 MOVIES",24/7 FAWLTY TOWERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4015
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRESH PRINCE OF BELAIR" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FRESHPRINCEOFBELAIR.png" group-title="AM| USA 24/7 MOVIES",24/7 FRESH PRINCE OF BELAIR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4014
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KEVIN HART STANDUP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/KEVINHARTSTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 KEVIN HART STANDUP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4013
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARRIED WITH CHILDREN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MARRIEDWITHCHILDREN.png" group-title="AM| USA 24/7 MOVIES",24/7 MARRIED WITH CHILDREN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4012
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEAKY BLINDERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PEAKYBLINDERS.png" group-title="AM| USA 24/7 MOVIES",24/7 PEAKY BLINDERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4011
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MUNSTERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEMUNSTERS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE MUNSTERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4010
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE ROYLE FAMILY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEROYLEFAMILY.png" group-title="AM| USA 24/7 MOVIES",24/7 THE ROYLE FAMILY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4009
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE TRANSPORTER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THETRANSPORTER.png" group-title="AM| USA 24/7 MOVIES",24/7 THE TRANSPORTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4008
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SGT BILKO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SGTBILKO.png" group-title="AM| USA 24/7 MOVIES",24/7 SGT BILKO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4007
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LONDONS BURNING" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LONDONSBURNING.png" group-title="AM| USA 24/7 MOVIES",24/7 LONDONS BURNING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4006
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAN LEES LUCKY MAN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STANLEESLUCKYMAN.png" group-title="AM| USA 24/7 MOVIES",24/7 STAN LEES LUCKY MAN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4005
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ASTERIX" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ASTERIX.png" group-title="AM| USA 24/7 MOVIES",24/7 ASTERIX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4004
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHEERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CHEERS.png" group-title="AM| USA 24/7 MOVIES",24/7 CHEERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4003
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DEXTER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DEXTER.png" group-title="AM| USA 24/7 MOVIES",24/7 DEXTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4002
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GLOW" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GLOW.png" group-title="AM| USA 24/7 MOVIES",24/7 GLOW
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4001
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOONEY TUNES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LOONEYTUNES.png" group-title="AM| USA 24/7 MOVIES",24/7 LOONEY TUNES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4000
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RUGRATS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/RUGRATS.png" group-title="AM| USA 24/7 MOVIES",24/7 RUGRATS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3999
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEWALKINGDEAD.png" group-title="AM| USA 24/7 MOVIES",24/7 THE WALKING DEAD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3998
+#EXTINF:-1 tvg-id="" tvg-name="24/7 UK STANDUP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/UKSTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 UK STANDUP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3997
+#EXTINF:-1 tvg-id="" tvg-name="24/7 USA STANDUP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/USASTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 USA STANDUP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3996
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THRILLER MOVIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THRILLERMOVIES.png" group-title="AM| USA 24/7 MOVIES",24/7 THRILLER MOVIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3995
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE YOUNG ONES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEYOUNGONES.png" group-title="AM| USA 24/7 MOVIES",24/7 THE YOUNG ONES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3994
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FAST AND FURIOUS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEFASTANDFURIOUS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE FAST AND FURIOUS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3993
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER HERO MOVIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SUPERHEROMOVIES.png" group-title="AM| USA 24/7 MOVIES",24/7 SUPER HERO MOVIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3992
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE VICAR OF DIBLEY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEVICAROFDIBLEY.png" group-title="AM| USA 24/7 MOVIES",24/7 THE VICAR OF DIBLEY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3991
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STILL OPEN ALL HOURS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STILLOPENALLHOURS.png" group-title="AM| USA 24/7 MOVIES",24/7 STILL OPEN ALL HOURS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3990
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAT PIZZA" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FATPIZZA.png" group-title="AM| USA 24/7 MOVIES",24/7 FAT PIZZA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3989
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WORZEL  GUMMIDGE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WORZELGUMMIDGE.png" group-title="AM| USA 24/7 MOVIES",24/7 WORZEL  GUMMIDGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3988
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ADVENTURE TIME" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ADVENTURETIME.png" group-title="AM| USA 24/7 MOVIES",24/7 ADVENTURE TIME
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3987
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BENIDORM" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BENIDORM.png" group-title="AM| USA 24/7 MOVIES",24/7 BENIDORM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3986
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOTTOM" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BOTTOM.png" group-title="AM| USA 24/7 MOVIES",24/7 BOTTOM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3985
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BUFFY THE VAMPIRE SLAYER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BUFFYTHEVAMPIRESLAYER.png" group-title="AM| USA 24/7 MOVIES",24/7 BUFFY THE VAMPIRE SLAYER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FARGO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FARGO.png" group-title="AM| USA 24/7 MOVIES",24/7 FARGO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3983
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRIDAY THE 13TH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FRIDAYTHE13TH.png" group-title="AM| USA 24/7 MOVIES",24/7 FRIDAY THE 13TH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3982
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KING OF THE HILL" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/KINGOFTHEHILL.png" group-title="AM| USA 24/7 MOVIES",24/7 KING OF THE HILL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3981
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LEGO STAR WARS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LEGOSTARWARS.png" group-title="AM| USA 24/7 MOVIES",24/7 LEGO STAR WARS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3980
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LORD OF THE RINGS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LORDOFTHERINGS.png" group-title="AM| USA 24/7 MOVIES",24/7 LORD OF THE RINGS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3979
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ROCKY.png" group-title="AM| USA 24/7 MOVIES",24/7 ROCKY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3978
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR WARS REBELS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STARWARSREBELS.png" group-title="AM| USA 24/7 MOVIES",24/7 STAR WARS REBELS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3977
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY AND THE BRAIN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PINKYANDTHEBRAIN.png" group-title="AM| USA 24/7 MOVIES",24/7 PINKY AND THE BRAIN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3976
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MASH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MASH.png" group-title="AM| USA 24/7 MOVIES",24/7 MASH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3975
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RAB C NESBITT" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/RABCNESBITT.png" group-title="AM| USA 24/7 MOVIES",24/7 RAB C NESBITT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3974
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KENNY VS SPENNY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/KENNYVSSPENNY.png" group-title="AM| USA 24/7 MOVIES",24/7 KENNY VS SPENNY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3973
+#EXTINF:-1 tvg-id="" tvg-name="24/7 A SERIES OF UNFORTUNATE EVENTS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ASERIESOFUNFORTUNATEEVENTS.png" group-title="AM| USA 24/7 MOVIES",24/7 A SERIES OF UNFORTUNATE EVENTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COMEDIANS IN CARS GETTING COFFEE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/COMEDIANSINCARSGETTINGCOFFEE.png" group-title="AM| USA 24/7 MOVIES",24/7 COMEDIANS IN CARS GETTING COFFEE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3971
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COLUMBO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/COLUMBO.png" group-title="AM| USA 24/7 MOVIES",24/7 COLUMBO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3970
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAVED BY THE BELL" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SAVEDBYTHEBELL.png" group-title="AM| USA 24/7 MOVIES",24/7 SAVED BY THE BELL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3969
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SECONDARY EDUCATION - MATHS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SECONDARYEDUCATIONMATHS.png" group-title="AM| USA 24/7 MOVIES",24/7 SECONDARY EDUCATION - MATHS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3968
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SECONDARY EDUCATION - ENGLISH LITERATURE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SECONDARYEDUCATIONENGLISHLITERATURE.png" group-title="AM| USA 24/7 MOVIES",24/7 SECONDARY EDUCATION - ENGLISH LITERATURE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3967
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SECONDARY EDUCATION - ENGLISH LANGUAGE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SECONDARYEDUCATIONENGLISHLANGUAGE.png" group-title="AM| USA 24/7 MOVIES",24/7 SECONDARY EDUCATION - ENGLISH LANGUAGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3966
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRIMARY EDUCATION - LANGUAGES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRIMARYEDUCATIONLANGUAGES.png" group-title="AM| USA 24/7 MOVIES",24/7 PRIMARY EDUCATION - LANGUAGES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3965
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRIMARY EDUCATION - GEOGRAPHY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRIMARYEDUCATIONGEOGRAPHY.png" group-title="AM| USA 24/7 MOVIES",24/7 PRIMARY EDUCATION - GEOGRAPHY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3964
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRIMARY EDUCATION - DESIGN TECHNOLOGY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRIMARYEDUCATIONDESIGNTECHNOLOGY.png" group-title="AM| USA 24/7 MOVIES",24/7 PRIMARY EDUCATION - DESIGN TECHNOLOGY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3963
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRIMARY EDUCATION - MATHS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRIMARYEDUCATIONMATHS.png" group-title="AM| USA 24/7 MOVIES",24/7 PRIMARY EDUCATION - MATHS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3962
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRIMARY EDUCATION - ENGLISH LITERATURE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRIMARYEDUCATIONENGLISHLITERATURE.png" group-title="AM| USA 24/7 MOVIES",24/7 PRIMARY EDUCATION - ENGLISH LITERATURE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3961
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRIMARY EDUCATION - ENGLISH LANGUAGE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRIMARYEDUCATIONENGLISHLANGUAGE.png" group-title="AM| USA 24/7 MOVIES",24/7 PRIMARY EDUCATION - ENGLISH LANGUAGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3960
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE OCTONAUTS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEOCTONAUTS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE OCTONAUTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3959
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FLINTSTONE KIDS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEFLINTSTONEKIDS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE FLINTSTONE KIDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3958
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUPPET BABIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MUPPETBABIES.png" group-title="AM| USA 24/7 MOVIES",24/7 MUPPET BABIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3957
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FOOTBALLERS WIFEâ€™S" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FOOTBALLERSWIFES.png" group-title="AM| USA 24/7 MOVIES",24/7 FOOTBALLERS WIFEâ€™S
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3956
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOUIS THEROUX" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LOUISTHEROUX.png" group-title="AM| USA 24/7 MOVIES",24/7 LOUIS THEROUX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3955
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BAYWATCH.png" group-title="AM| USA 24/7 MOVIES",24/7 BAYWATCH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3954
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SLEDGE HAMMER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SLEDGEHAMMER.png" group-title="AM| USA 24/7 MOVIES",24/7 SLEDGE HAMMER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3953
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EXTRAS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/EXTRAS.png" group-title="AM| USA 24/7 MOVIES",24/7 EXTRAS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3952
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BURNISTOUN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BURNISTOUN.png" group-title="AM| USA 24/7 MOVIES",24/7 BURNISTOUN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3951
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE PINK PANTHER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEPINKPANTHER.png" group-title="AM| USA 24/7 MOVIES",24/7 THE PINK PANTHER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3950
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LIZARD LICK TOWING" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LIZARDLICKTOWING.png" group-title="AM| USA 24/7 MOVIES",24/7 LIZARD LICK TOWING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3949
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DR WHO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DRWHO.png" group-title="AM| USA 24/7 MOVIES",24/7 DR WHO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3948
+#EXTINF:-1 tvg-id="" tvg-name="24/7 F IS FOR FAMILY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FISFORFAMILY.png" group-title="AM| USA 24/7 MOVIES",24/7 F IS FOR FAMILY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3947
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FANCY NANCY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FANCYNANCY.png" group-title="AM| USA 24/7 MOVIES",24/7 FANCY NANCY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3946
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GAME OF THRONES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GAMEOFTHRONES.png" group-title="AM| USA 24/7 MOVIES",24/7 GAME OF THRONES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3945
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOODNIGHT SWEETHEART" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GOODNIGHTSWEETHEART.png" group-title="AM| USA 24/7 MOVIES",24/7 GOODNIGHT SWEETHEART
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3944
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HORROR" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HORROR.png" group-title="AM| USA 24/7 MOVIES",24/7 HORROR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3943
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOUSE OF CARDS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/HOUSEOFCARDS.png" group-title="AM| USA 24/7 MOVIES",24/7 HOUSE OF CARDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3942
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JOHNY TEST" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JOHNYTEST.png" group-title="AM| USA 24/7 MOVIES",24/7 JOHNY TEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3941
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JURASSIC PARK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JURASSICPARK.png" group-title="AM| USA 24/7 MOVIES",24/7 JURASSIC PARK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3940
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUST GOOD FRIENDS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JUSTGOODFRIENDS.png" group-title="AM| USA 24/7 MOVIES",24/7 JUST GOOD FRIENDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3939
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MIAMI VICE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MIAMIVICE.png" group-title="AM| USA 24/7 MOVIES",24/7 MIAMI VICE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3938
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MY FAMILY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MYFAMILY.png" group-title="AM| USA 24/7 MOVIES",24/7 MY FAMILY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3937
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MY NAME IS EARL" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MYNAMEISEARL.png" group-title="AM| USA 24/7 MOVIES",24/7 MY NAME IS EARL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3936
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NOT GOING OUT" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/NOTGOINGOUT.png" group-title="AM| USA 24/7 MOVIES",24/7 NOT GOING OUT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3935
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEEP SHOW" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PEEPSHOW.png" group-title="AM| USA 24/7 MOVIES",24/7 PEEP SHOW
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3934
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PLANET OF THE APES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PLANETOFTHEAPES.png" group-title="AM| USA 24/7 MOVIES",24/7 PLANET OF THE APES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3933
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/POWER.png" group-title="AM| USA 24/7 MOVIES",24/7 POWER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3932
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RAMBO" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/RAMBO.png" group-title="AM| USA 24/7 MOVIES",24/7 RAMBO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3931
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RICKY GERVAIS STAND UP" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/RICKYGERVAISSTANDUP.png" group-title="AM| USA 24/7 MOVIES",24/7 RICKY GERVAIS STAND UP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3930
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROSEANNE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ROSEANNE.png" group-title="AM| USA 24/7 MOVIES",24/7 ROSEANNE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3929
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AN IDIOT ABROAD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ANIDIOTABROAD.png" group-title="AM| USA 24/7 MOVIES",24/7 AN IDIOT ABROAD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3928
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUEY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BLUEY.png" group-title="AM| USA 24/7 MOVIES",24/7 BLUEY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3927
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DALLAS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DALLAS.png" group-title="AM| USA 24/7 MOVIES",24/7 DALLAS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROSS KEMP EXTREME WORLD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ROSSKEMPEXTREMEWORLD.png" group-title="AM| USA 24/7 MOVIES",24/7 ROSS KEMP EXTREME WORLD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUE BLOODS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BLUEBLOODS.png" group-title="AM| USA 24/7 MOVIES",24/7 BLUE BLOODS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3924
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CRIMINAL MINDS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CRIMINALMINDS.png" group-title="AM| USA 24/7 MOVIES",24/7 CRIMINAL MINDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3923
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CARRY ON COLLECTION" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CARRYONCOLLECTION.png" group-title="AM| USA 24/7 MOVIES",24/7 CARRY ON COLLECTION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3922
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOVE HATE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/LOVEHATE.png" group-title="AM| USA 24/7 MOVIES",24/7 LOVE HATE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3921
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ONLY FOOLS AND HORSES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ONLYFOOLSANDHORSES.png" group-title="AM| USA 24/7 MOVIES",24/7 ONLY FOOLS AND HORSES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3920
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DENNIS THE MENICE CLASSICS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DENNISTHEMENICECLASSICS.png" group-title="AM| USA 24/7 MOVIES",24/7 DENNIS THE MENICE CLASSICS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3919
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PIT BULLS AND PAROLES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PITBULLSANDPAROLES.png" group-title="AM| USA 24/7 MOVIES",24/7 PIT BULLS AND PAROLES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3918
+#EXTINF:-1 tvg-id="" tvg-name="24/7 UFC" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/UFC.png" group-title="AM| USA 24/7 MOVIES",24/7 UFC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3917
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STREET OUTLAWS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STREETOUTLAWS.png" group-title="AM| USA 24/7 MOVIES",24/7 STREET OUTLAWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3916
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WAKING THE DEAD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WAKINGTHEDEAD.png" group-title="AM| USA 24/7 MOVIES",24/7 WAKING THE DEAD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3915
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE EXES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEEXES.png" group-title="AM| USA 24/7 MOVIES",24/7 THE EXES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3914
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TAGGED" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TAGGED.png" group-title="AM| USA 24/7 MOVIES",24/7 TAGGED
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3913
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOGGLEBOX" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GOGGLEBOX.png" group-title="AM| USA 24/7 MOVIES",24/7 GOGGLEBOX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3912
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAN VS FOOD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MANVSFOOD.png" group-title="AM| USA 24/7 MOVIES",24/7 MAN VS FOOD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3911
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THICK OF IT" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THICKOFIT.png" group-title="AM| USA 24/7 MOVIES",24/7 THICK OF IT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PETERPAN AND THE PIRATES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PETERPANANDTHEPIRATES.png" group-title="AM| USA 24/7 MOVIES",24/7 PETERPAN AND THE PIRATES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GOOD LUCK CHARLIE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GOODLUCKCHARLIE.png" group-title="AM| USA 24/7 MOVIES",24/7 GOOD LUCK CHARLIE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3908
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WATER MARGIN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEWATERMARGIN.png" group-title="AM| USA 24/7 MOVIES",24/7 THE WATER MARGIN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3907
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCAM CITY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SCAMCITY.png" group-title="AM| USA 24/7 MOVIES",24/7 SCAM CITY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3906
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMAZING STORIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/AMAZINGSTORIES.png" group-title="AM| USA 24/7 MOVIES",24/7 AMAZING STORIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3905
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE GOODIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEGOODIES.png" group-title="AM| USA 24/7 MOVIES",24/7 THE GOODIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3904
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOPBOY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TOPBOY.png" group-title="AM| USA 24/7 MOVIES",24/7 TOPBOY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3903
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WEEDS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WEEDS.png" group-title="AM| USA 24/7 MOVIES",24/7 WEEDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3902
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOSTON PUBLIC" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BOSTONPUBLIC.png" group-title="AM| USA 24/7 MOVIES",24/7 BOSTON PUBLIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3901
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SKINS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SKINS.png" group-title="AM| USA 24/7 MOVIES",24/7 SKINS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3900
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAIRLY ODD PARENTS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/FAIRLYODDPARENTS.png" group-title="AM| USA 24/7 MOVIES",24/7 FAIRLY ODD PARENTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3899
+#EXTINF:-1 tvg-id="" tvg-name="24/7 IN TREATMENT" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/INTREATMENT.png" group-title="AM| USA 24/7 MOVIES",24/7 IN TREATMENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3898
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE RACCONS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THERACCONS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE RACCONS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3897
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INSPECTOR GEORGE GENLTY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/INSPECTORGEORGEGENLTY.png" group-title="AM| USA 24/7 MOVIES",24/7 INSPECTOR GEORGE GENLTY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3896
+#EXTINF:-1 tvg-id="" tvg-name="24/7 IN TREATMENT 2" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/INTREATMENT2.png" group-title="AM| USA 24/7 MOVIES",24/7 IN TREATMENT 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTHER AND SON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MOTHERANDSON.png" group-title="AM| USA 24/7 MOVIES",24/7 MOTHER AND SON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EXTREME FISHING ROBSON GREEN" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/EXTREMEFISHINGROBSONGREEN.png" group-title="AM| USA 24/7 MOVIES",24/7 EXTREME FISHING ROBSON GREEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINGU" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PINGU.png" group-title="AM| USA 24/7 MOVIES",24/7 PINGU
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MURDER ONE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/MURDERONE.png" group-title="AM| USA 24/7 MOVIES",24/7 MURDER ONE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Air Crash Investigation" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/AirCrashInvestigation.png" group-title="AM| USA 24/7 MOVIES",24/7 Air Crash Investigation
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 OVERHAULING" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/OVERHAULING.png" group-title="AM| USA 24/7 MOVIES",24/7 OVERHAULING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3889
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GANGLAND" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/GANGLAND.png" group-title="AM| USA 24/7 MOVIES",24/7 GANGLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3888
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOWNTOWN ABBEY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DOWNTOWNABBEY.png" group-title="AM| USA 24/7 MOVIES",24/7 DOWNTOWN ABBEY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SEX IN THE CITY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SEXINTHECITY.png" group-title="AM| USA 24/7 MOVIES",24/7 SEX IN THE CITY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR WARS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STARWARS.png" group-title="AM| USA 24/7 MOVIES",24/7 STAR WARS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3885
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STARTREK.png" group-title="AM| USA 24/7 MOVIES",24/7 STAR TREK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3884
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK MOVIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/STARTREKMOVIES.png" group-title="AM| USA 24/7 MOVIES",24/7 STAR TREK MOVIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3883
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER WHY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SUPERWHY.png" group-title="AM| USA 24/7 MOVIES",24/7 SUPER WHY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3882
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE FLASH" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEFLASH.png" group-title="AM| USA 24/7 MOVIES",24/7 THE FLASH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE KING OF QUEENS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEKINGOFQUEENS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE KING OF QUEENS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3880
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE LIKELY LADS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THELIKELYLADS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE LIKELY LADS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3879
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WILL AND GRACE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/WILLANDGRACE.png" group-title="AM| USA 24/7 MOVIES",24/7 WILL AND GRACE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3878
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VAN DAMME" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/VANDAMME.png" group-title="AM| USA 24/7 MOVIES",24/7 VAN DAMME
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3877
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X MEN CARTOON" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/XMENCARTOON.png" group-title="AM| USA 24/7 MOVIES",24/7 X MEN CARTOON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3876
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRANSFORMERS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TRANSFORMERS.png" group-title="AM| USA 24/7 MOVIES",24/7 TRANSFORMERS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3875
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THOMAS AND FRIENDS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THOMASANDFRIENDS.png" group-title="AM| USA 24/7 MOVIES",24/7 THOMAS AND FRIENDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3874
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE SOPRANOS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THESOPRANOS.png" group-title="AM| USA 24/7 MOVIES",24/7 THE SOPRANOS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3873
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE REGULAR SHOW" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEREGULARSHOW.png" group-title="AM| USA 24/7 MOVIES",24/7 THE REGULAR SHOW
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3872
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/THEBIGBANGTHEORY.png" group-title="AM| USA 24/7 MOVIES",24/7 THE BIG BANG THEORY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3871
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERLOCK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SHERLOCK.png" group-title="AM| USA 24/7 MOVIES",24/7 SHERLOCK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3870
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCHWARZENEGGER" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/SCHWARZENEGGER.png" group-title="AM| USA 24/7 MOVIES",24/7 SCHWARZENEGGER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3869
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TAKESHIS CASTLE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/TAKESHISCASTLE.png" group-title="AM| USA 24/7 MOVIES",24/7 TAKESHIS CASTLE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3868
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ACTION MOVIES" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ACTIONMOVIES.png" group-title="AM| USA 24/7 MOVIES",24/7 ACTION MOVIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALAN PARTRIDGE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ALANPARTRIDGE.png" group-title="AM| USA 24/7 MOVIES",24/7 ALAN PARTRIDGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BRUCE LEE" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BRUCELEE.png" group-title="AM| USA 24/7 MOVIES",24/7 BRUCE LEE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CLINT EASTWOOD" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/CLINTEASTWOOD.png" group-title="AM| USA 24/7 MOVIES",24/7 CLINT EASTWOOD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3864
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JAMES BOND2" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/JAMESBOND2.png" group-title="AM| USA 24/7 MOVIES",24/7 JAMES BOND2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3863
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ABSOLUTELY FABULOUS" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ABSOLUTELYFABULOUS.png" group-title="AM| USA 24/7 MOVIES",24/7 ABSOLUTELY FABULOUS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3862
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/DRAGONBALLZ.png" group-title="AM| USA 24/7 MOVIES",24/7 DRAGON BALL Z
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3861
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BENNY HILL" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BENNYHILL.png" group-title="AM| USA 24/7 MOVIES",24/7 BENNY HILL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3860
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BENNYHILL 2" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/BENNYHILL2.png" group-title="AM| USA 24/7 MOVIES",24/7 BENNYHILL 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3859
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/ALF.png" group-title="AM| USA 24/7 MOVIES",24/7 ALF
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3858
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRISONER CELL BLOCK H" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/PRISONERCELLBLOCKH.png" group-title="AM| USA 24/7 MOVIES",24/7 PRISONER CELL BLOCK H
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3857
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COUPLING UK" tvg-logo="http://107.152.105.108:81/Logo/AMUSA247MOVIES/COUPLINGUK.png" group-title="AM| USA 24/7 MOVIES",24/7 COUPLING UK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/3856
