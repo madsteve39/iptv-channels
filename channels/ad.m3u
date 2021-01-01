@@ -1,5 +1,363 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="",RTVA
-http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="",RTVA
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport MáXimo HD
+http://aliwix-t.online:80/live/supersport/aliwix/1231.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Supersport Blitz HD
+http://aliwix-t.online:80/live/supersport/aliwix/1230.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 9 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1226.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 8 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1225.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 7 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1223.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 6 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1224.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 5 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1222.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 4 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1221.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 3 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1220.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 2 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1219.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 12 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1229.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 11 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1228.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 10 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1227.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 1 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13688
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13595
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13687
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13686
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13685
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13684
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13683
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13682
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 4 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13681
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORTS 5 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13680
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 5 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13679
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BEIN SPORTS 6 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13678
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 6 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13677
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEIN SPORTS 7 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13676
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 7 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13675
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",BEIN SPORTS 8 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13674
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 8 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13673
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",BEIN SPORTS 9 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13672
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 9 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13587
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",BEINSPORT 10 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13670
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT 10 BKP
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13669
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="Channels",BEINSPORT 11 HD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/24977
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13611
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13610
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13609
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13608
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORTS 5 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13607
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BEIN SPORTS 6 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13606
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEIN SPORTS 7 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13605
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",BEIN SPORTS 8 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13604
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",BEIN SPORTS 9 FHD
+http://iptvpro.premium-itv.com:8789/ahmed/1234/13603
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Channels",Bein Sports News
+http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="Channels",Bein Sport
+http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeInSport 1 HD
+http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BeInSport 1 SD
+http://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeInSport 2 HD
+http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeInSport 2 SD
+http://skdn.redi-vo.com/iptv/ch8112?code=103131497823984&key=12334
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeInSport 3 HD
+http://skdn.redi-vo.com/iptv/ch113?code=103131497823984&key=39255
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",BeInSport 3 SD
+http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeInSport 4 HD
+http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport 4 SD
+http://skdn.redi-vo.com/iptv/ch8114?code=103131497823984&key=40487
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeInSport 5 HD
+http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport 5 SD
+http://skdn.redi-vo.com/iptv/ch8115?code=103131497823984&key=26611
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeInSport 6 HD
+http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport 6 SD
+http://skdn.redi-vo.com/iptv/ch8116?code=103131497823984&key=29929
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeInSport 7 HD
+http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeInSport 7 SD
+http://skdn.redi-vo.com/iptv/ch8117?code=103131497823984&key=24135
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",BeInSport 8 HD
+http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",BeInSport 9 HD
+http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",BeInSport 10 HD
+http://skdn.redi-vo.com/iptv/ch511?code=103131497823984&key=51278
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="Channels",BeInSport 11 HD
+http://skdn.redi-vo.com/iptv/ch512?code=103131497823984&key=55556
+#EXTINF:0 tvg-id="bein12hd.jsc" group-title="Channels",BeInSport 12 HD
+http://skdn.redi-vo.com/iptv/ch513?code=103131497823984&key=55186
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="Channels",BeInSport 13 HD
+http://skdn.redi-vo.com/iptv/ch514?code=103131497823984&key=40006
+#EXTINF:0 tvg-id="bein14hd.jsc" group-title="Channels",BeInSport 14 HD
+http://skdn.redi-vo.com/iptv/ch515?code=103131497823984&key=18634
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport NBA HD
+http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
+#EXTINF:0 tvg-id="ext" group-title="Channels",KSA SPORT 1
+http://skdn.redi-vo.com/iptv/ch823?code=103131497823984&key=44583
+#EXTINF:0 tvg-id="ext" group-title="Channels",KSA SPORT 2
+http://skdn.redi-vo.com/iptv/ch824?code=103131497823984&key=38478
+#EXTINF:0 tvg-id="ext" group-title="Channels",KSA SPORT +1
+http://skdn.redi-vo.com/iptv/ch825?code=103131497823984&key=17779
+#EXTINF:0 tvg-id="ext" group-title="Channels",KSA SPORT +2
+http://skdn.redi-vo.com/iptv/ch826?code=103131497823984&key=42093
+#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch122?code=103131497823984&key=21973
+#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch603?code=103131497823984&key=53427
+#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch5519?code=103131497823984&key=18357
+#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch5520?code=103131497823984&key=41241
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nile Sport
+http://skdn.redi-vo.com/iptv/ch183?code=103131497823984&key=23703
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al Kaas 1
+http://skdn.redi-vo.com/iptv/ch497?code=103131497823984&key=32539
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al Kaas 2
+http://skdn.redi-vo.com/iptv/ch442?code=103131497823984&key=27203
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al Kaas 4
+http://skdn.redi-vo.com/iptv/ch545?code=103131497823984&key=49809
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yas Sports
+http://skdn.redi-vo.com/iptv/ch629?code=103131497823984&key=11373
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ahly Channel
+http://skdn.redi-vo.com/iptv/ch783?code=103131497823984&key=59553
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sport 1
+http://skdn.redi-vo.com/iptv/ch154?code=103131497823984&key=28938
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sport 2
+http://skdn.redi-vo.com/iptv/ch155?code=103131497823984&key=22583
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sport 3
+http://skdn.redi-vo.com/iptv/ch1533?code=103131497823984&key=48799
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing 1
+http://skdn.redi-vo.com/iptv/ch1531?code=103131497823984&key=38695
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing 2
+http://skdn.redi-vo.com/iptv/ch1031?code=103131497823984&key=15238
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing 3
+http://skdn.redi-vo.com/iptv/ch1532?code=103131497823984&key=31381
+#EXTINF:0 tvg-id="ext" group-title="Channels",Saudie Sport
+http://skdn.redi-vo.com/iptv/ch747?code=103131497823984&key=20096
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",Canal+ Sport
+http://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",Equidia Live
+http://skdn.redi-vo.com/iptv/ch269?code=103131497823984&key=51917
+#EXTINF:0 tvg-id="ABMoteurs.fr" group-title="Channels",AB Moteur
+http://skdn.redi-vo.com/iptv/ch268?code=103131497823984&key=34426
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golf Plus FR
+http://skdn.redi-vo.com/iptv/ch1299?code=103131497823984&key=28405
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golf Channel FR
+http://skdn.redi-vo.com/iptv/ch290?code=103131497823984&key=43121
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",EuroSport 1 HD
+http://skdn.redi-vo.com/iptv/ch743?code=103131497823984&key=45912
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",EuroSport 2 HD
+http://skdn.redi-vo.com/iptv/ch744?code=103131497823984&key=23667
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",Foot Plus
+http://skdn.redi-vo.com/iptv/ch266?code=103131497823984&key=35881
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",Infosport HD
+http://skdn.redi-vo.com/iptv/ch250?code=103131497823984&key=11032
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC News HD
+http://skdn.redi-vo.com/iptv/ch244?code=103131497823984&key=24950
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sport 1 Fr.
+http://skdn.redi-vo.com/iptv/ch1648?code=103131497823984&key=46306
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sport 2 Fr.
+http://skdn.redi-vo.com/iptv/ch1649?code=103131497823984&key=42751
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BeInSport 1 FR
+http://skdn.redi-vo.com/iptv/ch119?code=103131497823984&key=62807
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",BeInSport 2 FR
+http://skdn.redi-vo.com/iptv/ch120?code=103131497823984&key=38010
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",BeInSport 3 FR
+http://skdn.redi-vo.com/iptv/ch206?code=103131497823984&key=26341
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",BeInSport Max 4
+http://skdn.redi-vo.com/iptv/ch340?code=103131497823984&key=46196
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",BeInSport Max 5
+http://skdn.redi-vo.com/iptv/ch341?code=103131497823984&key=45618
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Channels",BeInSport Max 6
+http://skdn.redi-vo.com/iptv/ch342?code=103131497823984&key=61413
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",BeInSport Max 7
+http://skdn.redi-vo.com/iptv/ch343?code=103131497823984&key=52352
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Channels",BeInSport Max 8
+http://skdn.redi-vo.com/iptv/ch344?code=103131497823984&key=31483
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Channels",BeInSport Max 9
+http://skdn.redi-vo.com/iptv/ch345?code=103131497823984&key=28076
+#EXTINF:0 tvg-id="RaiSport1.it" group-title="Channels",Rai Sport 1 IT
+http://skdn.redi-vo.com/iptv/ch1315?code=103131497823984&key=56931
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Italia IT
+http://skdn.redi-vo.com/iptv/ch1933?code=103131497823984&key=32845
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motor Trend IT
+http://skdn.redi-vo.com/iptv/ch993?code=103131497823984&key=42448
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zelig Sport IT
+http://skdn.redi-vo.com/iptv/ch994?code=103131497823984&key=13779
+#EXTINF:0 tvg-id="TSN1.ca" group-title="Channels",TSN 1 HD
+http://skdn.redi-vo.com/iptv/ch3522?code=103131497823984&key=12157
+#EXTINF:0 tvg-id="TSN2.ca" group-title="Channels",TSN 2 HD
+http://skdn.redi-vo.com/iptv/ch3523?code=103131497823984&key=54617
+#EXTINF:0 tvg-id="TSN3.ca" group-title="Channels",TSN 3 HD
+http://skdn.redi-vo.com/iptv/ch3524?code=103131497823984&key=24582
+#EXTINF:0 tvg-id="TSN5.ca" group-title="Channels",TSN 5 HD
+http://skdn.redi-vo.com/iptv/ch3526?code=103131497823984&key=38701
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",NBC HD
+http://skdn.redi-vo.com/iptv/ch3521?code=103131497823984&key=61270
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE net.
+http://skdn.redi-vo.com/iptv/ch3518?code=103131497823984&key=21916
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL net. HD
+http://skdn.redi-vo.com/iptv/ch3517?code=103131497823984&key=50778
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports net.
+http://skdn.redi-vo.com/iptv/ch3516?code=103131497823984&key=50917
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA HD
+http://skdn.redi-vo.com/iptv/ch3515?code=103131497823984&key=40035
+#EXTINF:0 tvg-id="FoxSport1.nl" group-title="Channels",Fox Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch3513?code=103131497823984&key=30356
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch3514?code=103131497823984&key=23881
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN2 HD
+http://skdn.redi-vo.com/iptv/ch3512?code=103131497823984&key=16615
+#EXTINF:0 tvg-id="ESPNews.us" group-title="Channels",ESPN News HD
+http://skdn.redi-vo.com/iptv/ch3510?code=103131497823984&key=60519
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",Fox sport 1
+http://skdn.redi-vo.com/iptv/ch867?code=103131497823984&key=62019
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Channels",Fox sport 3
+http://skdn.redi-vo.com/iptv/ch880?code=103131497823984&key=48133
+#EXTINF:0 tvg-id="FOXSportsEredivisie5.nl" group-title="Channels",Fox Sport 5
+http://skdn.redi-vo.com/iptv/ch1862?code=103131497823984&key=33238
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sport 6
+http://skdn.redi-vo.com/iptv/ch1863?code=103131497823984&key=59444
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo NL
+http://skdn.redi-vo.com/iptv/ch3586?code=103131497823984&key=35409
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Voetball
+http://skdn.redi-vo.com/iptv/ch878?code=103131497823984&key=53667
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="Channels",Ziggo Sport Golf
+http://skdn.redi-vo.com/iptv/ch1879?code=103131497823984&key=14362
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Extra
+http://skdn.redi-vo.com/iptv/ch1867?code=103131497823984&key=50232
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Doc.
+http://skdn.redi-vo.com/iptv/ch1866?code=103131497823984&key=31666
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="Channels",Ziggo Sport Racing NL
+http://skdn.redi-vo.com/iptv/ch3585?code=103131497823984&key=57561
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="Channels",Ziggo Sport Select
+http://skdn.redi-vo.com/iptv/ch860?code=103131497823984&key=24851
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="Channels",Eurosport 1 NL
+http://skdn.redi-vo.com/iptv/ch1969?code=103131497823984&key=38198
+#EXTINF:0 tvg-id="Eurosport2.nl" group-title="Channels",Eurosport 2 NL
+http://skdn.redi-vo.com/iptv/ch3549?code=103131497823984&key=17867
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 PT
+http://skdn.redi-vo.com/iptv/ch2124?code=103131497823984&key=23461
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5 PT
+http://skdn.redi-vo.com/iptv/ch2127?code=103131497823984&key=49822
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",Eurosport 2 PT
+http://skdn.redi-vo.com/iptv/ch2129?code=103131497823984&key=46866
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Channels",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=103131497823984&key=44118
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=103131497823984&key=29705
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=103131497823984&key=31156
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=103131497823984&key=44129
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=103131497823984&key=19535
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=103131497823984&key=41059
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=103131497823984&key=29388
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="Channels",Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=103131497823984&key=18337
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="Channels",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=103131497823984&key=10226
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=103131497823984&key=18724
+#EXTINF:0 tvg-id="ext" group-title="Channels",Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=103131497823984&key=20046
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeInSport 1 HD
+http://cdng.pubcdn.tn/iptv/ch111?code=170132716026200
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BeInSport 1 SD
+http://cdng.pubcdn.tn/iptv/ch8111?code=170132716026200
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeInSport 2 HD
+http://cdng.pubcdn.tn/iptv/ch112?code=170132716026200
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeInSport 2 SD
+http://cdng.pubcdn.tn/iptv/ch8112?code=170132716026200
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeInSport 3 HD
+http://cdng.pubcdn.tn/iptv/ch113?code=170132716026200
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",BeInSport 3 SD
+http://cdng.pubcdn.tn/iptv/ch8113?code=170132716026200
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeInSport 4 HD
+http://cdng.pubcdn.tn/iptv/ch114?code=170132716026200
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport 4 SD
+http://cdng.pubcdn.tn/iptv/ch8114?code=170132716026200
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeInSport 5 HD
+http://cdng.pubcdn.tn/iptv/ch115?code=170132716026200
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport 5 SD
+http://cdng.pubcdn.tn/iptv/ch8115?code=170132716026200
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeInSport 6 HD
+http://cdng.pubcdn.tn/iptv/ch116?code=170132716026200
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport 6 SD
+http://cdng.pubcdn.tn/iptv/ch8116?code=170132716026200
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeInSport 7 HD
+http://cdng.pubcdn.tn/iptv/ch117?code=170132716026200
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeInSport 7 SD
+http://cdng.pubcdn.tn/iptv/ch8117?code=170132716026200
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",BeInSport 8 HD
+http://cdng.pubcdn.tn/iptv/ch118?code=170132716026200
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",BeInSport 9 HD
+http://cdng.pubcdn.tn/iptv/ch510?code=170132716026200
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",BeInSport 10 HD
+http://cdng.pubcdn.tn/iptv/ch511?code=170132716026200
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="Channels",BeInSport 11 HD
+http://cdng.pubcdn.tn/iptv/ch512?code=170132716026200
+#EXTINF:0 tvg-id="bein12hd.jsc" group-title="Channels",BeInSport 12 HD
+http://cdng.pubcdn.tn/iptv/ch513?code=170132716026200
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="Channels",BeInSport 13 HD
+http://cdng.pubcdn.tn/iptv/ch514?code=170132716026200
+#EXTINF:0 tvg-id="bein14hd.jsc" group-title="Channels",BeInSport 14 HD
+http://cdng.pubcdn.tn/iptv/ch515?code=170132716026200
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeInSport NBA HD
+http://cdng.pubcdn.tn/iptv/ch522?code=170132716026200
